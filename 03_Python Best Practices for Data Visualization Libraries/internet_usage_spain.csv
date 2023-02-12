@@ -1,0 +1,2456 @@
+name|internet_usage|sex|age|education|weight
+Josefina|0|Female|66|Elementary|81
+Vicki|1|Male|72|Elementary|78
+David|1|Male|48|University|69
+Curtis|0|Male|59|PhD|107
+Josephine|1|Female|44|PhD|80
+Malinda|1|Female|34|PhD|71
+Fern|1|Female|49|PhD|58
+Sue|1|Male|43|University|68
+Juanita|1|Male|23|Elementary|91
+Robert|1|Male|29|Higher Level|66
+Ethel|0|Female|73|Elementary|80
+Betty|0|Female|42|Elementary|67
+Steven|1|Female|26|Elementary|70
+Robert|0|Female|48|Elementary|68
+Felicidad|0|Male|79|No studies|85
+Doris|1|Male|38|Elementary|93
+Consuelo|0|Female|61|Elementary|72
+John|1|Male|34|Higher Level|60
+Anna|1|Female|40|Elementary|67
+Robert|1|Female|19|Elementary|63
+Henry|1|Female|30|High School|63
+Otis|0|Female|84|Elementary|73
+Albert|0|Male|51|Elementary|67
+Frank|1|Male|62|PhD|50
+David|0|Male|37|Elementary|70
+Clyde|0|Female|67|Elementary|83
+Virginia|1|Female|24|Higher Level|72
+Ronald|0|Male|52|Elementary|106
+Lewis|0|Male|70|No studies|48
+Terri|1|Male|25|Elementary|57
+Moshe|0|Female|27|Elementary|57
+Juan|1|Female|43|PhD|82
+William|1|Male|24|University|73
+Anthony|0|Female|65|No studies|65
+Randy|0|Female|63|Elementary|59
+Patricia|0|Female|32|Higher Level|64
+Mary|1|Male|22|High School|96
+Wayne|0|Male|61|Elementary|96
+Kenneth|1|Male|49|High School|61
+Donald|0|Female|54|Elementary|83
+Andrew|1|Male|31|Elementary|106
+Craig|0|Female|42|Elementary|76
+Mary|1|Male|22|University|69
+Alvin|0|Female|65|Elementary|61
+Troy|0|Female|43|Elementary|65
+Tracy|1|Male|64|University|95
+German|0|Female|29|Elementary|56
+Allie|1|Male|26|Elementary|99
+Gilbert|1|Female|29|PhD|74
+Karen|0|Male|54|High School|86
+Valeri|0|Female|90|Elementary|79
+Matthew|0|Male|79|No studies|104
+Virginia|0|Male|38|Elementary|87
+Eric|0|Male|65|Elementary|90
+Jim|0|Female|61|Elementary|91
+Robert|0|Female|53|High School|86
+Jay|1|Male|39|Elementary|64
+Thelma|0|Female|74|Elementary|78
+Greg|1|Female|29|High School|67
+Helen|0|Female|49|Elementary|74
+Donna|0|Male|54|Elementary|76
+Brenda|0|Male|64|Elementary|67
+John|0|Male|29|Elementary|70
+Cameron|1|Male|19|Higher Level|84
+Kevin|0|Female|44|Elementary|56
+Roy|1|Female|31|Elementary|68
+John|1|Male|40|Elementary|60
+Marie|0|Female|30|Elementary|70
+Barbara|0|Male|46|Elementary|89
+Jessica|1|Male|34|Elementary|58
+Walter|0|Female|76|No studies|56
+Ruth|0|Male|74|No studies|63
+Larry|0|Female|61|No studies|60
+William|0|Female|50|Elementary|74
+Yvonne|0|Female|57|Elementary|73
+Rachael|0|Female|66|Elementary|64
+Arthur|1|Male|25|Elementary|83
+Rosanna|1|Female|40|University|68
+Shirley|0|Male|58|Elementary|69
+Michael|0|Male|73|Elementary|88
+Dorothy|1|Female|27|PhD|69
+Dorothy|0|Male|41|Higher Level|95
+Gary|0|Male|51|Higher Level|79
+Lana|0|Male|47|Elementary|66
+Jose|0|Male|43|Elementary|60
+Dorothy|1|Female|23|Elementary|74
+Richard|1|Female|29|Elementary|73
+Brett|1|Female|47|PhD|62
+Debra|0|Female|61|No studies|82
+Charles|1|Male|21|High School|90
+Phillip|0|Male|39|Elementary|84
+Julie|1|Female|32|Elementary|79
+Katherina|1|Male|34|Higher Level|78
+Robert|1|Female|47|Higher Level|86
+Isabel|0|Female|66|Elementary|91
+Doris|0|Male|73|No studies|82
+Lee|0|Male|63|No studies|76
+Jay|0|Female|40|Elementary|84
+Yetta|1|Male|39|Elementary|74
+Diane|0|Female|73|No studies|61
+Irene|0|Male|37|Elementary|91
+Jennifer|0|Female|58|No studies|46
+Carlos|0|Female|37|High School|61
+Carrie|1|Male|33|Elementary|79
+Graham|1|Female|23|Elementary|65
+Kent|0|Male|68|Elementary|84
+Catherine|1|Male|46|Elementary|48
+Timothy|0|Female|44|Elementary|54
+Brandon|1|Female|50|Higher Level|50
+Kristi|0|Male|58|Elementary|31
+William|1|Male|47|Elementary|81
+Richard|0|Female|56|Elementary|50
+Alfredo|0|Male|68|University|80
+Courtney|1|Male|29|PhD|81
+Phillip|1|Male|36|Elementary|84
+Milagros|1|Female|32|PhD|74
+Julian|0|Female|65|No studies|57
+Marcia|1|Female|32|Elementary|73
+Van|0|Male|38|Elementary|71
+Michael|1|Female|19|High School|87
+Robert|0|Male|61|Elementary|83
+Betty|1|Female|40|Elementary|79
+Geraldine|1|Female|46|High School|68
+Ruth|1|Female|40|High School|47
+Roland|0|Female|75|Elementary|63
+David|0|Male|71|University|98
+David|1|Male|18|Elementary|64
+Elaine|1|Male|30|University|48
+Sally|0|Female|64|Elementary|69
+Peggy|1|Female|33|Elementary|71
+Adam|1|Male|40|Higher Level|104
+Harold|0|Female|71|Elementary|50
+Jennifer|0|Male|71|No studies|56
+Michael|1|Female|45|Elementary|74
+Brett|0|Male|50|No studies|87
+Donna|1|Male|24|Elementary|98
+Kami|0|Male|82|Elementary|52
+Scott|0|Female|77|No studies|69
+Shawna|0|Male|60|Elementary|89
+Samuel|0|Female|49|Elementary|68
+Wm|1|Male|47|Elementary|59
+Kayleigh|1|Male|22|Elementary|106
+David|0|Female|37|Elementary|69
+Mary|1|Female|20|Higher Level|64
+Thomas|0|Female|56|Elementary|49
+Carlos|0|Female|73|No studies|76
+Joanne|1|Male|34|Elementary|74
+Elvie|1|Female|26|Elementary|77
+Martha|1|Female|41|Elementary|61
+Billy|0|Male|79|No studies|89
+Alvin|0|Male|51|Elementary|102
+Barbara|0|Male|43|Elementary|80
+Renee|0|Female|55|Elementary|74
+Faye|1|Male|31|Elementary|101
+Robert|1|Female|18|Elementary|70
+Nancy|0|Female|37|Elementary|73
+April|0|Female|25|High School|95
+Christina|0|Male|39|High School|76
+Audrey|1|Male|59|Elementary|63
+Nicole|0|Female|65|Elementary|64
+Mary|1|Male|21|Elementary|120
+Danny|1|Male|32|Elementary|97
+William|0|Male|80|Elementary|51
+Michael|0|Male|80|Elementary|83
+Scott|0|Male|83|No studies|91
+Kevin|0|Female|74|Elementary|72
+Phoebe|0|Male|35|Higher Level|105
+Kevin|1|Female|43|Higher Level|65
+Heidi|0|Female|33|Elementary|75
+Linda|0|Female|62|Elementary|83
+Crystal|1|Female|48|High School|61
+James|1|Male|41|Elementary|103
+Herbert|1|Female|29|High School|64
+Donna|1|Male|45|Elementary|56
+Donna|0|Female|76|University|66
+David|0|Male|54|Elementary|86
+Samuel|0|Female|76|Elementary|63
+Monika|1|Male|20|High School|81
+Ida|1|Male|42|University|86
+Joseph|1|Male|25|Higher Level|89
+Barbara|0|Male|57|Elementary|85
+Pablo|0|Female|70|Elementary|51
+Anton|0|Female|33|Elementary|71
+Clarence|1|Female|44|PhD|79
+Christopher|0|Female|56|University|59
+Eula|1|Male|53|Higher Level|97
+Christopher|1|Male|65|High School|83
+Scott|1|Female|29|University|81
+Gloria|1|Male|44|Higher Level|72
+James|0|Female|55|High School|81
+Fred|1|Female|54|University|62
+Arlene|1|Female|43|PhD|74
+Dora|0|Male|62|Elementary|84
+William|0|Female|67|Elementary|80
+Phyllis|1|Male|19|Elementary|83
+Anna|0|Female|74|Elementary|79
+Ronnie|0|Female|27|High School|65
+Katherine|0|Male|34|Elementary|93
+Eileen|0|Male|54|Elementary|102
+John|0|Male|75|Elementary|93
+Lana|0|Male|28|Elementary|42
+Theodore|1|Male|46|Elementary|70
+Jeanette|1|Male|18|Elementary|78
+Michael|0|Female|74|No studies|62
+Nina|1|Female|35|High School|81
+Riley|0|Female|23|High School|66
+Donald|0|Male|25|Higher Level|90
+Eva|1|Female|18|Elementary|79
+Jesus|1|Male|56|Elementary|83
+Ricky|0|Female|33|High School|85
+Esther|0|Female|43|Elementary|65
+Frederick|0|Male|74|High School|65
+Darnell|1|Female|69|Elementary|58
+Cecilia|0|Female|58|Elementary|60
+Eugene|0|Male|48|Elementary|104
+Robert|0|Male|74|No studies|58
+Vanda|1|Female|39|Higher Level|66
+Ryan|0|Male|44|Elementary|61
+Jeffrey|0|Female|53|No studies|75
+Randy|1|Female|19|Elementary|80
+Frank|1|Male|44|University|92
+Alma|0|Female|54|Elementary|63
+Judy|1|Female|38|University|74
+Ernesto|0|Female|85|Elementary|67
+April|1|Female|31|University|62
+Tammy|0|Male|71|Elementary|74
+Mary|1|Male|42|PhD|85
+Janie|0|Female|57|No studies|66
+Aldo|1|Male|51|University|81
+Susan|1|Male|64|Elementary|66
+Rose|1|Male|31|Higher Level|102
+Brenda|0|Female|66|No studies|79
+Edward|0|Female|31|Elementary|86
+Grace|0|Male|81|No studies|95
+Kathleen|0|Female|47|Elementary|65
+Peggy|0|Female|19|Elementary|68
+Timothy|1|Male|24|Elementary|73
+Scott|1|Male|48|Elementary|51
+Marcus|1|Male|25|Elementary|75
+Charlotte|0|Male|50|Elementary|81
+Julia|0|Female|38|Elementary|73
+Frank|1|Female|21|University|76
+Glen|1|Female|34|High School|70
+Frances|0|Female|65|High School|65
+Joann|0|Male|35|Elementary|59
+Patricia|1|Male|37|Elementary|44
+Michael|1|Female|64|Elementary|71
+Kristie|1|Male|47|University|107
+Kenneth|1|Female|19|Elementary|75
+Candy|1|Male|38|Higher Level|55
+John|1|Male|28|Higher Level|103
+Debra|1|Female|33|Higher Level|77
+Maria|0|Female|75|Elementary|73
+Donald|1|Male|73|High School|83
+Michael|1|Female|41|University|82
+Courtney|1|Male|54|Elementary|68
+Judith|1|Male|23|Elementary|64
+Maria|1|Male|32|University|76
+Eric|0|Male|60|Elementary|84
+Loretta|0|Female|58|PhD|65
+William|1|Female|47|University|74
+Sherri|0|Female|71|Elementary|73
+Arthur|1|Female|35|University|55
+Bobby|1|Female|30|Higher Level|69
+Mattie|1|Male|41|PhD|76
+Olivia|0|Male|82|Elementary|80
+Anna|1|Female|26|University|91
+Rachel|1|Female|28|Elementary|55
+Dianna|1|Male|25|PhD|77
+Edna|1|Female|43|PhD|54
+Nenita|0|Female|84|Elementary|78
+Jennifer|1|Male|38|PhD|80
+Todd|1|Male|48|High School|85
+Dovie|0|Female|74|Elementary|59
+Amanda|1|Female|37|University|63
+Colleen|0|Female|72|Elementary|76
+Dominic|0|Male|69|Elementary|94
+Shaun|1|Male|29|PhD|92
+Jessie|1|Female|29|University|77
+Beverly|0|Female|52|Elementary|70
+Roger|1|Female|53|High School|72
+Desmond|1|Male|35|PhD|69
+Jeffrey|1|Female|24|PhD|48
+Rosemary|0|Female|83|Higher Level|64
+Clifton|1|Male|32|Higher Level|112
+Katherine|0|Female|57|Elementary|57
+Lynda|1|Male|39|Higher Level|103
+Richard|1|Female|39|Higher Level|69
+Lavonda|0|Female|64|Elementary|68
+Sidney|1|Female|33|University|76
+Elizabeth|1|Male|56|University|63
+Annetta|0|Male|57|Elementary|72
+Steven|0|Female|48|Higher Level|64
+Martin|0|Male|70|Elementary|82
+Roy|1|Male|29|Higher Level|77
+Jeremiah|0|Female|66|Elementary|66
+John|0|Male|69|Elementary|52
+Ronald|1|Male|28|PhD|83
+Robert|1|Male|41|High School|105
+Micheal|0|Female|81|Elementary|60
+Teresa|1|Female|51|High School|80
+Peggy|1|Female|56|High School|74
+Annette|1|Male|20|High School|86
+Shanna|1|Male|38|University|86
+Ronald|0|Male|53|Elementary|101
+Dennis|1|Male|37|Higher Level|89
+Marvin|1|Male|24|Higher Level|82
+Tracey|0|Male|40|Higher Level|106
+David|1|Female|24|Elementary|60
+Miguel|1|Male|29|Higher Level|64
+Rosalie|0|Female|75|Elementary|74
+Stephen|1|Female|35|High School|78
+Rebecca|1|Female|34|Elementary|78
+Kathleen|1|Male|34|Higher Level|75
+Roberta|1|Female|35|PhD|82
+Liz|0|Male|61|High School|65
+Octavio|0|Female|72|Elementary|69
+Joyce|1|Female|25|Higher Level|79
+David|0|Female|64|Elementary|62
+Priscilla|1|Male|49|High School|72
+Diane|1|Male|41|University|104
+Louise|1|Male|32|Elementary|105
+Rosario|1|Male|24|Elementary|90
+Nina|1|Female|18|Higher Level|59
+Bonnie|0|Female|56|Elementary|62
+Gilberto|1|Male|35|PhD|61
+Mary|1|Male|65|Elementary|74
+Diane|0|Female|46|Higher Level|58
+Terry|0|Female|86|Elementary|61
+Deanna|0|Male|60|PhD|62
+Dwayne|1|Female|26|PhD|60
+Jeanette|0|Female|85|No studies|47
+David|1|Male|18|High School|67
+Liza|1|Female|23|Elementary|64
+Sandra|1|Male|20|High School|82
+George|0|Female|70|Higher Level|69
+Naoma|0|Female|31|Elementary|72
+Christine|0|Female|51|High School|79
+Janet|1|Male|27|Higher Level|73
+Ronald|0|Female|69|Elementary|58
+Kay|1|Male|32|Higher Level|82
+Margaret|1|Male|32|Higher Level|77
+John|1|Male|39|PhD|67
+Jerry|0|Female|48|Elementary|91
+Thomas|0|Male|56|Elementary|90
+Philip|1|Female|21|High School|76
+Louis|1|Female|41|Higher Level|68
+Courtney|1|Male|54|Elementary|68
+Georgia|0|Female|32|Elementary|66
+Stephen|1|Male|53|Elementary|74
+Kevin|1|Female|26|Elementary|62
+Keith|0|Female|51|Elementary|66
+Robert|0|Female|67|Elementary|79
+Melanie|0|Male|60|Elementary|57
+Shannon|0|Male|70|Elementary|83
+Dianne|1|Male|41|Higher Level|74
+Amy|1|Female|39|PhD|67
+Nancy|0|Female|51|Higher Level|68
+Max|1|Male|28|University|85
+Francisco|0|Female|64|Elementary|66
+Mary|1|Male|41|Higher Level|78
+Hannelore|1|Male|55|PhD|79
+Veronica|1|Male|32|PhD|85
+Magdalena|1|Male|33|Higher Level|60
+Paul|1|Female|43|Elementary|65
+Nicholas|1|Female|25|Elementary|63
+Louie|1|Female|67|High School|71
+Kristen|0|Male|55|Elementary|69
+Joseph|0|Female|47|Elementary|64
+Debra|0|Male|65|Higher Level|96
+Daniell|0|Male|59|No studies|54
+Judith|1|Female|45|High School|81
+Rachel|0|Female|71|Higher Level|74
+Pauline|1|Female|35|PhD|54
+Roland|1|Female|24|University|72
+William|0|Male|82|Elementary|69
+Lucy|1|Male|18|High School|83
+Christine|1|Male|28|PhD|87
+Douglas|1|Male|44|PhD|43
+James|1|Female|18|Elementary|68
+Daniel|0|Female|81|No studies|72
+Rita|0|Male|73|Elementary|86
+Susan|1|Male|51|Elementary|63
+Marjorie|1|Female|28|Elementary|61
+Marie|1|Male|22|Elementary|85
+Tara|1|Male|43|Higher Level|102
+Eric|0|Female|43|Higher Level|66
+Beth|1|Male|33|University|81
+Marylyn|0|Female|65|Elementary|63
+Margaret|0|Male|64|Elementary|57
+Laura|1|Male|27|University|79
+Mildred|0|Female|50|Elementary|59
+Michael|1|Female|33|PhD|67
+Velma|0|Female|81|Higher Level|63
+Earnest|0|Female|68|High School|73
+Raymond|1|Male|45|Elementary|78
+Nicole|1|Male|40|High School|101
+Suzann|1|Female|45|PhD|57
+Shannon|1|Female|42|Higher Level|77
+Susan|1|Female|41|Elementary|78
+Jerry|1|Female|48|Higher Level|59
+Kenneth|1|Female|73|Elementary|79
+John|0|Male|68|No studies|78
+Alyce|1|Female|28|PhD|60
+Raymond|1|Female|22|Higher Level|56
+Maria|0|Female|61|Elementary|58
+Florentina|1|Male|23|Higher Level|94
+April|0|Male|78|Elementary|93
+Claudia|1|Male|53|Elementary|82
+Lionel|1|Male|33|Higher Level|77
+Dorothy|0|Female|68|Elementary|63
+Janet|0|Female|55|Elementary|56
+Patti|1|Male|31|Elementary|54
+Tammy|1|Female|21|High School|68
+Janie|1|Male|33|PhD|88
+Christopher|0|Female|77|Elementary|56
+Shelly|1|Female|45|High School|64
+Thomas|1|Male|66|Higher Level|109
+William|0|Female|63|Elementary|87
+Martha|1|Male|21|High School|90
+Andrew|1|Male|41|PhD|111
+Randy|1|Male|49|Elementary|75
+Richard|1|Female|32|Higher Level|69
+Carroll|0|Male|67|Elementary|107
+Gayle|1|Female|29|Elementary|73
+George|0|Male|74|No studies|55
+Sandra|1|Male|40|High School|71
+Tony|0|Male|30|Elementary|100
+James|1|Male|30|Elementary|81
+Marcia|1|Male|36|Elementary|85
+James|0|Female|65|No studies|83
+Olga|1|Male|81|Elementary|75
+Cathy|0|Female|63|No studies|79
+Sharmaine|1|Female|24|PhD|67
+Elbert|1|Female|42|PhD|74
+Lawrence|1|Male|52|Elementary|87
+Anton|1|Female|41|PhD|73
+Thomas|0|Male|71|No studies|55
+Rebecca|0|Male|37|Higher Level|97
+Russell|1|Female|29|University|55
+Johnny|1|Female|51|University|60
+Dana|1|Male|48|Higher Level|72
+David|0|Female|57|Elementary|85
+Linda|1|Male|43|High School|87
+Wanda|1|Male|22|Elementary|77
+Michael|1|Male|35|Higher Level|71
+Vernell|0|Male|90|No studies|67
+Ruby|1|Female|68|University|77
+Gregory|0|Female|41|Elementary|71
+Lula|1|Male|19|High School|45
+Elsie|1|Male|39|Elementary|49
+Monroe|0|Male|52|Elementary|108
+Sherry|1|Male|19|Higher Level|81
+Sidney|0|Female|34|Elementary|80
+Carolina|1|Male|28|PhD|50
+Joseph|0|Female|58|Elementary|72
+June|0|Male|64|Elementary|71
+Doris|0|Female|42|University|62
+Florence|0|Female|69|No studies|75
+Paz|1|Male|26|High School|88
+Misty|0|Male|73|Elementary|41
+Eugene|1|Male|50|High School|70
+Roslyn|0|Female|43|Higher Level|59
+Ashley|0|Female|82|Elementary|64
+Ethelyn|0|Female|55|Higher Level|61
+Alicia|1|Male|35|Higher Level|88
+Sharon|0|Female|79|No studies|80
+Matthew|1|Female|33|Higher Level|67
+Raymond|1|Male|30|Elementary|71
+David|0|Male|57|Higher Level|74
+Blanche|1|Male|30|University|130
+Roosevelt|1|Male|32|University|59
+Richard|0|Female|63|Elementary|85
+Robbin|1|Female|50|Higher Level|82
+Darrell|1|Female|44|Higher Level|78
+Margaret|0|Female|71|No studies|73
+Diane|0|Female|42|Elementary|60
+Michael|0|Female|47|Elementary|79
+Heather|1|Female|24|Higher Level|69
+Paul|1|Male|55|University|75
+Don|1|Male|32|High School|66
+Jennifer|1|Female|32|PhD|78
+Andrew|0|Female|78|Elementary|83
+David|0|Female|73|No studies|63
+Anthony|0|Female|60|Elementary|75
+Mary|1|Female|33|Elementary|62
+Esther|0|Female|35|Elementary|78
+Zelma|0|Female|52|Elementary|76
+Evelina|1|Male|31|Higher Level|85
+Kevin|0|Male|49|Elementary|73
+Sandra|1|Male|35|High School|61
+Dorthy|1|Male|28|Elementary|74
+Bradley|1|Female|38|Elementary|85
+Ronald|1|Female|30|University|74
+David|1|Male|56|Elementary|71
+Felisa|1|Female|30|High School|70
+Lance|1|Female|37|PhD|74
+James|1|Male|31|University|88
+Albertine|0|Female|64|Elementary|76
+Maria|1|Male|50|High School|62
+Mark|1|Male|55|PhD|84
+Steven|0|Female|43|High School|67
+Jack|1|Male|37|Elementary|86
+Thomas|1|Male|49|Elementary|100
+Angela|1|Male|21|Elementary|122
+Melva|0|Male|57|Higher Level|73
+Mariah|1|Female|21|Elementary|68
+Delores|1|Male|38|Elementary|94
+Shelly|0|Male|70|Elementary|95
+Barbara|0|Female|57|Elementary|74
+Donald|0|Female|82|No studies|76
+Sherrie|0|Female|40|Elementary|58
+Colin|0|Female|72|No studies|74
+Preston|1|Male|36|Higher Level|80
+Crystal|0|Male|65|Elementary|107
+Eleanor|1|Male|23|Elementary|74
+Effie|1|Female|29|High School|64
+Malinda|1|Male|48|High School|70
+Sandra|0|Female|41|Elementary|67
+Mary|0|Female|57|Elementary|60
+Mindy|1|Female|47|PhD|49
+Alejandro|0|Female|70|Elementary|74
+Mary|1|Male|60|PhD|98
+Joe|1|Female|18|Elementary|78
+Rosemary|1|Male|40|PhD|76
+Joanne|1|Female|35|High School|58
+James|1|Male|46|Higher Level|59
+Eileen|1|Female|55|High School|77
+Thomas|1|Male|60|Elementary|101
+Mike|1|Male|29|Higher Level|51
+Jennifer|1|Female|34|Higher Level|74
+Sonja|1|Female|39|Higher Level|82
+Evan|1|Female|19|High School|68
+Billy|1|Male|47|High School|79
+Linda|0|Male|65|Elementary|72
+Leonard|1|Female|35|Higher Level|67
+William|0|Male|54|Elementary|83
+Robert|1|Male|60|Higher Level|90
+Jeff|0|Female|78|Elementary|98
+Robert|0|Female|26|Higher Level|75
+Stephen|0|Female|59|University|82
+Sonia|1|Male|33|Higher Level|95
+Shane|1|Female|33|High School|77
+Amanda|1|Male|58|University|62
+Kenneth|0|Male|80|Elementary|61
+Janine|1|Female|47|Higher Level|74
+Orville|1|Female|43|PhD|48
+Naomi|1|Male|46|PhD|74
+William|1|Female|20|Higher Level|80
+Ethel|1|Male|37|PhD|101
+Amanda|0|Female|85|PhD|49
+Clarence|0|Female|75|Elementary|73
+Olivia|0|Male|80|Elementary|114
+Samuel|1|Male|33|High School|59
+Samantha|0|Female|77|No studies|46
+Emily|0|Female|52|Elementary|69
+Anthony|0|Male|37|Elementary|85
+Alan|0|Female|57|Elementary|76
+Judy|1|Male|28|Higher Level|94
+Morton|0|Male|62|Elementary|91
+Joseph|0|Male|33|Elementary|79
+Lucinda|1|Male|50|PhD|73
+Dianne|0|Male|75|Elementary|91
+Jennifer|1|Female|26|PhD|61
+Rhonda|1|Female|41|University|83
+Allyson|1|Female|35|Elementary|73
+Scott|1|Female|34|PhD|47
+Johanna|1|Female|44|University|78
+Lucia|1|Male|18|Elementary|70
+Steven|1|Male|26|High School|105
+David|0|Female|62|Elementary|69
+Sean|0|Male|54|High School|92
+Ivelisse|0|Male|64|Higher Level|74
+Robert|1|Male|36|PhD|61
+Jamie|0|Female|31|Higher Level|63
+Joan|1|Female|54|University|68
+Charles|0|Female|41|High School|50
+Connie|1|Female|20|University|72
+Eleonore|1|Female|65|High School|75
+Keith|0|Male|53|Higher Level|96
+Tyson|0|Female|65|University|65
+Juan|0|Male|76|Elementary|74
+Jeffrey|0|Female|58|Elementary|63
+Rachael|1|Female|46|University|53
+Patricia|0|Male|23|Elementary|84
+Laurie|0|Female|80|No studies|73
+Rebecca|1|Male|43|Elementary|82
+Charles|1|Female|37|High School|67
+Marsha|1|Male|28|Elementary|82
+David|1|Female|47|High School|71
+Stanley|0|Female|86|No studies|62
+Lorraine|0|Male|48|Elementary|71
+Don|0|Male|74|Elementary|57
+Rachel|1|Male|35|Elementary|95
+Claude|0|Female|59|Elementary|68
+Rita|1|Female|26|University|72
+Marion|1|Male|25|High School|105
+David|0|Male|75|Elementary|70
+Federico|1|Female|42|Elementary|79
+Esther|0|Female|84|No studies|66
+William|1|Female|31|Elementary|74
+Ryan|1|Male|32|Elementary|80
+Felipe|1|Male|22|Higher Level|104
+David|0|Male|59|Elementary|89
+Sergio|0|Female|57|Elementary|73
+Julie|1|Male|40|Higher Level|58
+Glenda|1|Male|46|High School|103
+Betty|1|Male|43|Higher Level|88
+Rosemary|1|Female|43|PhD|72
+Robert|1|Female|28|PhD|80
+Erica|1|Male|70|Higher Level|62
+Scott|1|Female|53|PhD|71
+John|0|Female|27|High School|76
+Lorraine|1|Female|40|University|70
+Janice|1|Male|31|University|115
+Mary|0|Female|56|Elementary|63
+Sandra|1|Female|27|Higher Level|70
+Mary|0|Female|75|Elementary|68
+Frank|0|Male|42|Elementary|88
+Joy|1|Female|46|Elementary|71
+Pedro|1|Male|48|Higher Level|91
+Robert|0|Female|81|No studies|65
+Mary|0|Male|52|Elementary|71
+Gwendolyn|0|Female|30|Elementary|79
+Magdalene|1|Male|43|Elementary|76
+Donna|0|Female|18|Elementary|80
+Leonard|1|Female|42|High School|82
+Raymond|0|Male|72|No studies|96
+Monica|0|Male|21|Elementary|92
+Donald|0|Male|63|Elementary|85
+Micheal|1|Female|41|Elementary|66
+Bibi|0|Male|35|No studies|70
+Robert|0|Female|72|No studies|68
+Nancy|0|Female|61|No studies|64
+Allan|1|Male|20|Elementary|76
+Mary|0|Female|74|No studies|64
+David|1|Male|63|Elementary|104
+Edna|1|Male|27|Elementary|100
+Rhonda|1|Female|29|Higher Level|62
+Carmel|0|Female|50|Higher Level|57
+Deborah|1|Male|33|Elementary|98
+Lorna|1|Male|25|Higher Level|86
+Richard|1|Female|51|PhD|51
+Sarah|1|Male|47|High School|71
+Santa|0|Male|69|Elementary|39
+George|1|Female|26|High School|72
+Alice|1|Female|18|High School|55
+Dale|0|Female|67|No studies|64
+Robert|1|Female|37|University|81
+Pamela|1|Male|43|University|68
+Howard|1|Male|37|High School|89
+Pat|1|Male|19|High School|74
+William|1|Male|29|PhD|77
+Robert|1|Female|34|Elementary|66
+Carl|0|Female|58|Elementary|65
+Naomi|0|Male|67|No studies|75
+Inez|0|Female|43|Elementary|80
+Yvette|0|Female|45|Elementary|73
+George|0|Female|77|Elementary|59
+Robert|1|Male|41|Elementary|72
+Alene|0|Male|79|No studies|71
+Barbara|1|Male|29|Elementary|89
+Kim|1|Male|40|Higher Level|76
+Molly|0|Female|20|Elementary|64
+Mary|0|Female|26|Elementary|77
+Vanessa|0|Female|54|No studies|62
+Ouida|0|Female|57|Elementary|63
+Boyd|0|Female|38|Elementary|84
+Jordan|0|Male|48|Elementary|74
+Sandra|1|Male|26|Elementary|64
+Ronda|0|Male|68|No studies|62
+Susan|0|Male|26|Elementary|83
+Crystal|0|Female|31|High School|77
+Josephine|0|Female|73|No studies|67
+Mary|1|Male|38|Elementary|106
+Carly|1|Female|40|Elementary|65
+Leo|0|Male|52|Elementary|100
+Armando|0|Male|66|Elementary|116
+Roselyn|1|Female|32|Elementary|99
+Judith|0|Female|56|Elementary|73
+Florence|1|Male|28|Elementary|58
+Georgiana|0|Female|81|No studies|76
+Earl|1|Male|21|Elementary|72
+Marguerite|0|Female|39|Higher Level|73
+Dennis|0|Male|44|Elementary|73
+Ivan|1|Male|26|University|71
+Gregory|1|Female|45|Elementary|79
+Larry|0|Male|67|Elementary|89
+Bruce|1|Female|31|University|63
+Sam|1|Female|32|Higher Level|68
+Yvette|0|Female|44|Elementary|76
+Charles|0|Female|70|No studies|72
+Thomas|0|Male|75|No studies|56
+William|0|Female|55|Elementary|69
+Irene|0|Male|50|Higher Level|77
+Terrance|0|Male|62|Elementary|88
+Erik|1|Male|31|PhD|72
+Ruby|1|Male|40|Higher Level|87
+Rubye|0|Female|59|Elementary|53
+Edith|1|Male|48|Higher Level|91
+Thomas|0|Female|30|Elementary|53
+David|0|Female|65|University|69
+Darrell|1|Female|45|PhD|87
+Tony|0|Male|56|Elementary|61
+Latoya|0|Female|58|University|59
+Richard|1|Male|28|Elementary|91
+Miguel|1|Female|32|PhD|68
+Anita|0|Female|70|Elementary|72
+Stephanie|0|Male|77|No studies|75
+Crystal|0|Male|57|Elementary|82
+Mary|0|Female|52|Elementary|71
+Milton|0|Female|39|Elementary|75
+Richard|0|Male|40|Elementary|84
+Cathryn|0|Male|86|Elementary|74
+Stephen|1|Male|20|Elementary|75
+Steve|0|Female|65|No studies|91
+Daryl|0|Male|40|Elementary|92
+Janis|0|Male|51|Elementary|94
+Boyce|1|Male|20|Elementary|79
+Reginald|0|Male|70|Elementary|85
+Caryn|1|Female|40|Elementary|70
+Phillip|1|Male|28|University|87
+Melvin|0|Male|44|Elementary|100
+Christy|0|Female|44|Elementary|82
+Erin|0|Female|67|Elementary|74
+John|1|Male|34|University|101
+Marva|0|Male|75|Elementary|70
+Sarah|0|Female|57|Elementary|78
+Jim|1|Female|18|Elementary|71
+Elena|1|Male|48|High School|81
+James|1|Male|37|University|82
+Carolyn|0|Female|45|Elementary|67
+Shawn|1|Female|23|Elementary|65
+Alice|1|Male|48|Elementary|85
+Octavia|0|Female|44|Elementary|72
+Beverly|1|Female|29|Elementary|83
+Louvenia|0|Male|56|Elementary|78
+Reuben|1|Male|34|Elementary|66
+Jonathan|1|Female|32|Higher Level|72
+Noah|1|Female|42|Elementary|82
+Elton|0|Male|55|Elementary|83
+Pam|0|Male|40|Higher Level|55
+David|0|Male|71|Elementary|83
+Rhonda|0|Female|62|Elementary|72
+Donald|1|Female|18|Elementary|83
+Cassy|0|Female|87|No studies|44
+William|0|Female|68|No studies|86
+Stacey|0|Male|55|No studies|83
+Joseph|0|Male|39|Elementary|81
+Victor|0|Female|57|Elementary|57
+Connie|0|Male|19|Elementary|67
+Virginia|1|Male|30|Elementary|99
+Larry|0|Female|46|Elementary|73
+Carlos|1|Female|35|University|88
+Keith|0|Female|22|Higher Level|58
+Lionel|1|Female|28|Elementary|51
+Bruce|0|Female|70|No studies|68
+Rufus|0|Female|38|Elementary|48
+Hong|1|Female|45|Elementary|79
+Tommy|0|Male|28|Elementary|70
+Phillip|0|Male|48|Elementary|85
+Nicholas|1|Male|36|PhD|90
+Anthony|0|Male|86|No studies|102
+Annette|0|Male|54|Elementary|70
+Breanna|0|Male|44|Elementary|97
+Wilbert|0|Female|37|University|67
+Andrew|1|Male|28|Higher Level|74
+Wayne|0|Male|54|Elementary|93
+Mayola|0|Male|73|Elementary|81
+Carlos|0|Female|73|Elementary|66
+Althea|0|Female|32|Elementary|71
+Colleen|0|Female|61|Elementary|70
+Eula|0|Male|68|Elementary|101
+Ardis|0|Female|83|University|63
+Sharon|0|Male|45|Elementary|65
+Linda|1|Female|30|PhD|58
+Pam|1|Female|38|Elementary|84
+Margaret|1|Male|24|Elementary|79
+Otha|0|Female|51|University|83
+Kecia|1|Male|38|Higher Level|89
+Eduardo|0|Female|64|Elementary|73
+Donna|0|Female|74|University|90
+Stella|0|Female|48|Elementary|75
+Carmen|1|Female|21|Higher Level|80
+Jay|0|Female|29|Elementary|66
+Ellis|1|Male|31|Higher Level|71
+Dora|0|Male|71|Elementary|111
+Kim|1|Male|48|Elementary|83
+Meagan|0|Male|64|High School|85
+Rodney|1|Male|35|Elementary|129
+Fred|0|Female|60|High School|72
+Kimberly|0|Male|63|Elementary|82
+Barbara|1|Male|19|High School|91
+Augustine|0|Male|47|Elementary|76
+Linda|0|Male|78|Elementary|72
+Michael|0|Female|52|Elementary|56
+Diana|1|Female|44|High School|61
+Kim|0|Female|76|Elementary|67
+Hazel|0|Female|78|No studies|80
+Tiffany|1|Male|41|PhD|82
+Helen|0|Female|63|Elementary|51
+Bryan|1|Female|44|High School|73
+Jaime|0|Female|68|No studies|78
+Maxine|0|Male|66|Elementary|66
+Michael|1|Male|25|High School|91
+Charles|1|Female|25|PhD|73
+Jamie|1|Male|46|High School|68
+Donna|0|Female|67|Elementary|70
+Bryan|0|Female|59|Elementary|77
+James|0|Male|40|Elementary|63
+Muriel|1|Female|25|Higher Level|60
+Manuel|0|Male|76|No studies|94
+Jennifer|1|Male|22|Higher Level|72
+Margaret|1|Female|53|High School|57
+Frank|1|Male|31|Elementary|87
+Roger|0|Female|42|Elementary|59
+Holly|0|Male|60|Elementary|65
+Gregory|0|Female|32|High School|80
+Benjamin|0|Male|25|Higher Level|83
+Diane|0|Male|70|Elementary|93
+Tamela|0|Female|80|No studies|44
+Victor|0|Male|47|Higher Level|98
+Richard|1|Female|20|High School|90
+Keith|1|Male|56|PhD|84
+Carmela|0|Male|53|Elementary|94
+Richard|0|Female|73|No studies|78
+Theresa|0|Female|66|No studies|80
+Heather|1|Male|33|Elementary|82
+Stephanie|1|Female|40|Elementary|67
+Ronald|1|Male|65|Higher Level|78
+Joseph|0|Female|52|Elementary|83
+Annamae|1|Female|26|Higher Level|71
+Leonard|1|Female|26|Higher Level|76
+Tina|0|Male|52|No studies|94
+Gary|1|Female|24|Higher Level|68
+Barbara|0|Male|53|High School|76
+Harold|0|Male|35|Elementary|66
+Norma|0|Female|69|No studies|76
+Anamaria|1|Female|36|University|78
+Carolyn|1|Female|25|Higher Level|64
+Alvin|0|Female|69|Elementary|48
+Daniel|0|Male|36|Elementary|80
+Edith|1|Female|46|University|74
+Anthony|0|Female|60|Elementary|70
+Lisa|1|Male|48|High School|78
+Jeffrey|1|Female|35|University|75
+Michael|1|Male|29|PhD|73
+Garry|1|Male|33|Elementary|104
+Michael|1|Female|42|PhD|64
+Christopher|0|Female|63|No studies|73
+Victor|0|Male|59|Elementary|91
+Bruce|1|Male|43|Elementary|97
+Darcy|0|Female|66|No studies|88
+Daniel|0|Female|64|High School|73
+Neil|1|Male|52|High School|114
+James|1|Female|31|PhD|65
+William|0|Male|87|Elementary|98
+Janna|0|Female|95|Elementary|61
+Toni|1|Male|33|Higher Level|64
+Lori|0|Male|44|Elementary|74
+Robert|1|Female|46|Elementary|62
+Robert|1|Female|31|PhD|62
+Isabel|1|Female|63|University|69
+Paul|1|Male|21|University|59
+Sylvia|1|Female|42|Higher Level|67
+Tommy|0|Female|75|High School|68
+Donald|0|Male|67|Higher Level|74
+Peter|1|Male|22|High School|73
+Lucinda|1|Male|37|Elementary|96
+Kim|0|Male|54|Elementary|67
+Latasha|0|Male|62|Elementary|93
+Linwood|1|Female|28|Higher Level|66
+Charlotte|0|Female|52|Elementary|64
+Linda|1|Female|41|Higher Level|67
+Maria|1|Female|65|Higher Level|63
+Jeffrey|1|Female|30|University|89
+Leo|0|Male|47|Elementary|63
+Helen|1|Male|20|Higher Level|59
+Shirley|1|Female|40|Higher Level|67
+Teresa|0|Male|81|Elementary|75
+Cassandra|1|Male|44|Elementary|79
+Roger|1|Male|33|Higher Level|92
+Carlos|1|Female|27|Higher Level|80
+Sharon|1|Male|52|PhD|81
+John|1|Female|66|University|39
+Rosalind|0|Male|74|No studies|70
+Alex|1|Female|19|High School|74
+Frank|0|Female|38|Higher Level|85
+Wilfred|1|Male|35|PhD|77
+Angela|1|Male|22|High School|71
+Kenneth|0|Female|53|PhD|84
+Maria|1|Female|32|High School|63
+Louann|1|Male|58|High School|90
+Shelia|1|Female|23|Elementary|78
+Charles|1|Male|31|PhD|81
+Jeremy|0|Female|66|High School|68
+Louise|1|Male|42|Elementary|101
+Sue|0|Female|57|Elementary|80
+Stephen|1|Male|73|PhD|68
+Charlene|1|Male|34|Elementary|72
+Margaret|1|Female|31|High School|79
+Felipe|1|Female|36|Elementary|72
+William|1|Male|38|University|93
+Scott|0|Female|65|Elementary|79
+Tommy|1|Male|27|Elementary|80
+Patricia|0|Female|58|Elementary|52
+Nancy|0|Female|49|No studies|75
+Keith|0|Male|69|Elementary|59
+Meghan|0|Male|59|High School|73
+Nancy|0|Female|36|Elementary|55
+Lydia|0|Female|72|Elementary|60
+Teresa|1|Male|46|Higher Level|101
+Will|0|Female|18|Elementary|71
+Thelma|0|Male|34|Elementary|87
+Jose|1|Female|32|High School|94
+Larry|1|Male|26|Elementary|55
+Rodolfo|1|Male|56|High School|65
+Heather|1|Male|31|Higher Level|75
+Terri|1|Female|26|Higher Level|68
+Edith|0|Male|84|Elementary|101
+Roland|1|Female|24|Elementary|67
+Susan|0|Female|50|Elementary|54
+Katherine|1|Male|24|Elementary|78
+Marie|0|Male|64|Elementary|86
+Tabitha|0|Female|60|Elementary|63
+Phillip|1|Male|38|High School|83
+Randy|1|Male|35|Elementary|78
+Michael|1|Female|65|Elementary|64
+Thomas|1|Female|26|High School|82
+Ernest|1|Female|42|University|62
+Barbara|0|Male|48|Elementary|78
+Kerri|0|Male|78|No studies|93
+Francina|1|Male|44|Higher Level|91
+Stacey|0|Male|34|Elementary|97
+Eva|0|Male|46|High School|104
+Holly|1|Female|21|Elementary|69
+Cathy|1|Male|40|Elementary|74
+Glenda|0|Female|64|Elementary|76
+Alicia|0|Male|68|No studies|84
+Mary|1|Female|48|Higher Level|82
+Olga|0|Female|85|Elementary|64
+Amanda|0|Male|55|University|97
+John|1|Male|24|Higher Level|69
+Michael|0|Female|80|No studies|70
+Wilson|1|Male|30|Elementary|82
+Joseph|1|Male|45|University|79
+Ruby|0|Male|64|Elementary|65
+Jean|1|Female|18|Elementary|79
+Paul|0|Female|35|PhD|62
+William|1|Female|55|High School|72
+Michael|1|Female|82|University|63
+Philip|1|Female|38|University|76
+Christina|0|Female|87|Elementary|81
+Cheryl|1|Female|22|University|62
+Jason|1|Male|51|High School|84
+Janet|0|Male|77|Elementary|80
+Jesus|1|Male|62|University|84
+Anthony|1|Male|37|Higher Level|71
+Ernest|1|Female|29|University|62
+Deborah|0|Female|62|Elementary|74
+Alice|1|Female|47|High School|59
+Charles|0|Female|90|No studies|89
+Gerald|1|Male|32|Higher Level|70
+Richard|1|Female|30|PhD|79
+Tommie|0|Male|80|Elementary|57
+Bill|1|Male|37|Higher Level|72
+Michael|1|Male|22|High School|89
+Carissa|0|Male|80|Elementary|81
+Sylvia|0|Male|46|Higher Level|90
+Marguerite|0|Female|56|High School|65
+Tonya|0|Female|73|Elementary|68
+Gracie|1|Female|43|University|73
+Tony|1|Male|34|Higher Level|94
+John|1|Female|26|High School|66
+Frank|1|Female|47|Elementary|61
+Joshua|0|Female|49|Elementary|50
+Richard|1|Female|56|University|91
+Clarence|1|Female|29|University|63
+Lula|1|Male|18|Elementary|78
+Charles|1|Male|55|High School|87
+Lori|1|Male|39|High School|77
+Betty|1|Male|31|Higher Level|98
+Benito|0|Male|50|Elementary|89
+Larry|1|Female|33|Elementary|67
+James|0|Male|39|Elementary|96
+Bradley|0|Male|77|Elementary|73
+Jamie|0|Female|50|Elementary|62
+Brenda|0|Female|75|Elementary|72
+Steve|0|Male|30|Elementary|77
+James|0|Female|38|Elementary|61
+Andres|0|Female|70|No studies|86
+Mary|0|Male|31|Elementary|82
+William|1|Female|47|Higher Level|69
+William|0|Male|79|Elementary|70
+Robert|0|Male|20|Elementary|123
+Victoria|1|Male|40|Higher Level|85
+Raul|1|Female|27|High School|70
+Robert|0|Female|42|Elementary|59
+Laura|0|Male|52|Elementary|107
+Rueben|0|Male|25|Elementary|57
+Mark|0|Male|42|Higher Level|105
+Amy|0|Female|65|No studies|71
+Pamela|0|Female|56|Elementary|70
+Paul|1|Female|22|University|77
+Anna|0|Female|34|Elementary|78
+Milton|1|Male|21|Elementary|75
+Joseph|0|Male|57|Elementary|81
+Isabel|0|Male|70|No studies|75
+Phyllis|1|Female|40|Elementary|71
+Karen|1|Female|33|University|84
+Michael|1|Male|25|Elementary|83
+Mellie|0|Female|66|No studies|67
+Louise|1|Male|39|High School|54
+Charles|0|Female|47|Higher Level|72
+Thomas|0|Female|68|No studies|55
+Arthur|1|Male|30|Elementary|81
+Jennifer|0|Male|65|Elementary|51
+Jerome|1|Male|36|Higher Level|71
+Angelina|0|Female|46|Elementary|70
+Edwin|1|Female|28|Elementary|91
+Lisa|0|Female|37|Elementary|71
+Sara|0|Female|62|Elementary|71
+Sherry|1|Male|46|Elementary|82
+Richard|0|Male|63|Elementary|103
+Judith|1|Male|25|University|71
+Gabriel|0|Female|65|Elementary|77
+Andrea|0|Male|80|Elementary|62
+Helen|1|Female|54|Elementary|66
+Michael|0|Male|50|Higher Level|70
+Karen|1|Female|36|University|71
+Donna|1|Male|60|PhD|113
+Louise|1|Female|34|University|77
+Antonio|1|Female|21|High School|50
+Kathleen|0|Male|73|Higher Level|56
+Raymond|0|Female|77|Elementary|73
+Steve|1|Female|37|High School|58
+Christian|1|Male|45|Elementary|80
+Brian|1|Female|22|Elementary|60
+Gloria|1|Female|42|Elementary|62
+William|0|Male|72|No studies|86
+Bernard|0|Male|38|Elementary|73
+Amado|0|Male|50|Elementary|94
+Stephaine|1|Male|28|University|86
+Deann|1|Female|55|High School|68
+Ronda|0|Female|65|Elementary|71
+Sang|1|Female|48|Elementary|70
+Jon|1|Male|20|Elementary|80
+Dorothy|0|Female|45|Elementary|68
+Alfred|1|Female|32|High School|67
+Nancy|0|Male|76|No studies|70
+Bernadette|1|Male|37|Elementary|90
+Darlene|0|Female|60|Elementary|76
+Mildred|0|Female|70|No studies|76
+Donald|0|Male|31|Elementary|93
+Diane|1|Female|44|Elementary|75
+Earl|0|Female|30|Elementary|66
+Judith|0|Male|57|Elementary|80
+Carl|0|Female|73|No studies|59
+Jack|0|Male|88|No studies|107
+David|1|Male|18|Elementary|49
+Robert|0|Male|48|Elementary|121
+Paula|1|Male|37|University|65
+James|0|Female|60|Elementary|60
+Emilia|1|Male|24|University|91
+Maria|1|Female|40|High School|77
+Will|0|Male|35|Elementary|66
+Stephanie|0|Female|73|University|47
+Glenn|1|Female|33|University|72
+Mark|1|Male|25|University|79
+Andrea|1|Female|45|Higher Level|74
+Shari|1|Male|53|PhD|78
+Lonnie|1|Male|68|University|69
+Martin|1|Male|35|High School|79
+James|0|Female|24|Elementary|67
+Juan|1|Female|30|Higher Level|70
+Danny|0|Female|80|Elementary|64
+Hattie|0|Female|41|Elementary|80
+Marilyn|0|Male|52|Elementary|74
+Barbara|0|Male|23|Elementary|106
+Mai|1|Male|70|Elementary|108
+James|0|Male|80|No studies|104
+Jose|0|Male|60|Elementary|93
+Betty|0|Male|46|High School|72
+Guillermo|0|Female|87|No studies|62
+Ruby|1|Male|41|Elementary|89
+Jamie|0|Female|45|Elementary|82
+Sarah|0|Female|54|University|78
+Richard|1|Male|25|Elementary|71
+Anthony|0|Female|79|Elementary|77
+Adrianne|1|Male|40|Higher Level|96
+Donald|1|Female|28|Higher Level|58
+Mildred|0|Male|82|Elementary|80
+Latricia|0|Female|63|Elementary|62
+Hilda|1|Male|59|Elementary|95
+Cheryl|0|Female|30|Elementary|74
+Antonio|1|Female|35|Higher Level|62
+Brittany|1|Female|24|Higher Level|79
+Edmund|1|Male|45|University|86
+James|0|Male|79|Elementary|74
+Sharon|0|Male|62|Elementary|67
+James|0|Female|62|Elementary|67
+Irene|1|Male|39|PhD|105
+Cecilia|1|Male|30|University|99
+Marion|1|Female|65|Higher Level|89
+Evelina|0|Female|72|Elementary|51
+John|1|Male|22|Higher Level|75
+Robert|0|Female|47|High School|57
+Ivan|1|Male|38|PhD|82
+Evelyn|1|Male|34|University|78
+Brian|0|Female|52|Elementary|72
+Donald|1|Female|38|PhD|86
+Leslie|1|Female|25|University|77
+Mark|1|Male|50|Higher Level|89
+Joseph|0|Female|76|Elementary|57
+Lionel|1|Male|23|Higher Level|69
+James|0|Female|45|Higher Level|88
+Lynne|0|Female|24|Elementary|71
+Ivan|0|Male|56|Elementary|80
+Jean|1|Female|35|PhD|68
+Richard|0|Male|68|Elementary|88
+Mary|1|Male|34|Elementary|96
+Vicki|0|Female|79|Elementary|70
+Claribel|1|Female|31|University|58
+William|0|Female|59|Elementary|68
+Terence|1|Male|47|Elementary|93
+Desiree|1|Male|35|Higher Level|96
+Matthew|0|Female|77|Elementary|54
+Kathy|1|Male|44|Elementary|69
+Susan|1|Male|42|Elementary|33
+Keith|0|Male|66|Elementary|70
+Alma|0|Female|58|Elementary|72
+Patricia|0|Female|44|Elementary|69
+Lavonne|0|Female|54|Elementary|63
+James|0|Male|71|Elementary|87
+Richard|1|Female|25|University|76
+Carrie|0|Male|55|Elementary|113
+Justin|0|Male|39|Elementary|97
+Carl|0|Female|67|No studies|66
+Patricia|0|Female|58|Elementary|85
+Janice|1|Male|19|Elementary|80
+Ruben|1|Male|49|Higher Level|106
+Brenda|1|Female|33|High School|65
+Patty|0|Male|74|No studies|78
+James|0|Female|58|Higher Level|76
+Charlie|0|Female|65|Elementary|47
+Carol|0|Male|35|High School|72
+Oscar|1|Female|35|Higher Level|70
+Herbert|1|Male|30|High School|60
+Alan|0|Female|68|No studies|60
+Shelly|0|Female|45|High School|84
+Josefina|0|Male|64|Elementary|81
+Michael|0|Male|74|Higher Level|87
+Earl|0|Female|75|No studies|69
+Tammy|0|Male|45|High School|82
+Daniel|1|Male|30|High School|57
+Joan|1|Female|22|Higher Level|71
+Gabriel|0|Male|63|Elementary|95
+Marc|1|Male|45|Elementary|63
+Alva|0|Female|54|Elementary|74
+Russel|0|Female|31|Elementary|76
+Forest|1|Female|34|University|64
+Michael|1|Female|39|University|80
+Mary|1|Male|70|PhD|81
+Joseph|1|Male|34|High School|78
+Debra|1|Male|51|PhD|90
+Oralee|1|Female|23|University|59
+Foster|0|Female|83|Elementary|90
+Andrew|1|Male|44|High School|95
+Frances|1|Female|40|High School|74
+Herman|1|Male|35|PhD|91
+Isabel|0|Female|63|Elementary|65
+Kenna|0|Male|71|Elementary|68
+Sarah|0|Female|63|Elementary|83
+Phil|1|Female|43|University|60
+Jean|1|Female|51|Elementary|62
+Barry|1|Male|30|University|65
+Francisca|0|Female|32|Elementary|74
+Fred|1|Male|18|Elementary|58
+Judy|0|Female|68|Elementary|69
+Darrin|1|Male|26|University|78
+Nelson|0|Female|82|High School|74
+Diane|1|Male|73|PhD|66
+Chester|1|Male|54|PhD|65
+Yvette|1|Female|22|University|75
+Jane|1|Male|21|Elementary|97
+Mollie|0|Female|76|University|97
+Eugene|0|Male|80|Elementary|87
+Katherine|1|Male|42|Elementary|85
+Lawrence|0|Male|52|Elementary|74
+Lloyd|0|Female|60|High School|70
+Jerry|1|Female|28|Elementary|77
+Margaret|1|Female|43|PhD|65
+David|1|Male|45|High School|89
+James|1|Male|36|PhD|84
+Jimmy|1|Female|18|High School|82
+Robert|1|Female|34|PhD|53
+Marcie|1|Male|53|Higher Level|71
+Danny|1|Female|48|Elementary|78
+Arnold|1|Male|33|PhD|85
+Ray|1|Male|47|PhD|96
+Diane|1|Female|36|University|87
+Linda|0|Female|75|PhD|72
+Darrell|1|Female|49|Higher Level|74
+Beth|1|Male|61|High School|69
+William|1|Male|33|University|66
+Maribel|1|Male|49|Elementary|84
+Jane|1|Male|18|High School|94
+Barbara|0|Male|25|Elementary|68
+Diana|1|Female|68|Elementary|78
+Patricia|0|Female|75|Elementary|91
+Patricia|1|Female|50|High School|76
+Mary|0|Male|69|No studies|34
+Stephen|1|Female|43|High School|82
+Rick|0|Female|75|No studies|65
+Eric|1|Female|25|PhD|69
+Mariam|1|Female|48|High School|79
+Verla|1|Male|27|Elementary|82
+Jose|1|Female|46|Elementary|70
+Donnie|1|Male|42|Elementary|54
+Denise|0|Female|72|No studies|62
+Jose|1|Female|36|High School|67
+Vern|0|Male|66|Elementary|79
+Robert|1|Male|31|Higher Level|109
+Rodrick|1|Male|31|Higher Level|69
+Maria|1|Female|42|Higher Level|66
+Thomas|0|Female|68|University|73
+Christie|1|Female|18|Higher Level|55
+George|1|Male|26|PhD|85
+Valerie|0|Female|49|Elementary|76
+Evita|1|Female|44|PhD|52
+Steven|1|Male|31|High School|92
+George|0|Male|58|Elementary|77
+Tanya|0|Female|57|Elementary|77
+Helen|1|Male|61|High School|91
+Robert|1|Female|42|High School|54
+Mary|1|Male|31|Higher Level|77
+Roger|1|Female|31|High School|55
+Sherry|0|Male|54|Elementary|103
+Perry|1|Female|43|PhD|66
+Jeffrey|0|Male|70|Elementary|102
+Sonia|1|Male|38|PhD|71
+Lowell|1|Female|27|PhD|63
+Hattie|0|Female|34|Higher Level|87
+Donna|0|Female|66|Elementary|76
+Kayla|1|Male|52|Higher Level|76
+Mary|1|Male|36|PhD|69
+Samuel|0|Male|70|PhD|70
+Christina|0|Female|66|University|65
+Donald|1|Male|32|University|77
+Timothy|0|Female|73|Elementary|81
+Dorothy|1|Female|24|University|67
+Sarah|0|Female|64|Elementary|58
+Alma|0|Female|77|Elementary|57
+Juan|0|Female|49|Elementary|74
+Ronald|1|Male|62|PhD|93
+Howard|0|Female|59|Elementary|69
+Tim|1|Male|57|Elementary|79
+Brian|1|Male|27|High School|110
+William|1|Female|19|High School|73
+Charlene|1|Male|26|Higher Level|79
+Nelson|0|Male|60|High School|90
+Nancy|1|Female|23|PhD|74
+Mary|1|Male|54|High School|80
+James|0|Female|72|Elementary|76
+Lillian|0|Female|50|Elementary|70
+Kathleen|0|Female|33|Elementary|62
+Walter|1|Female|53|PhD|61
+Daisy|0|Female|56|High School|67
+Michael|1|Male|25|University|105
+Bernie|1|Male|58|Elementary|76
+Michael|0|Female|86|High School|63
+John|1|Male|37|PhD|80
+William|1|Male|33|University|80
+Debbie|1|Female|37|PhD|86
+Clifford|0|Female|75|No studies|85
+Mary|1|Female|55|High School|61
+Nina|1|Female|50|PhD|73
+Lynn|1|Male|42|PhD|76
+Robert|0|Female|25|Elementary|70
+Bonnie|1|Male|31|PhD|72
+Susan|0|Female|64|No studies|65
+Heather|1|Female|39|Higher Level|45
+Mary|1|Male|36|High School|69
+Ron|0|Female|67|No studies|50
+Dinah|1|Female|32|Higher Level|62
+Mike|1|Male|41|Elementary|77
+Brenda|1|Male|18|Higher Level|71
+Asha|0|Female|36|Elementary|61
+Salvador|1|Female|50|High School|69
+Kelly|1|Female|33|PhD|54
+Robert|1|Male|39|High School|85
+Mary|1|Male|34|PhD|83
+Theodore|1|Male|31|PhD|92
+Mitchell|1|Female|33|Higher Level|70
+Corey|0|Female|52|Elementary|79
+Dwight|0|Male|80|No studies|63
+Shawn|1|Male|35|High School|88
+Karen|0|Female|63|No studies|45
+Denis|0|Male|31|Elementary|82
+Irene|0|Male|60|Elementary|71
+Laura|1|Female|44|University|64
+James|1|Male|37|High School|81
+Eric|0|Male|71|Elementary|58
+Maria|1|Female|31|Higher Level|68
+Ethel|0|Female|76|No studies|93
+Michele|0|Female|73|Elementary|71
+Tami|1|Male|28|Elementary|82
+Denise|1|Female|43|Higher Level|67
+Edgar|1|Male|21|Elementary|80
+Brian|0|Male|79|Elementary|97
+William|1|Male|41|Elementary|81
+Brian|1|Male|44|High School|95
+Curtis|1|Male|23|University|73
+David|1|Female|18|Elementary|82
+Johnny|0|Female|53|Elementary|51
+Chad|0|Female|44|Elementary|79
+Jose|0|Female|55|Elementary|69
+Patricia|0|Male|61|Elementary|66
+Jim|1|Male|33|Elementary|53
+Carol|1|Female|35|University|76
+Lois|1|Female|20|High School|70
+Gilda|1|Male|62|University|96
+Donald|1|Female|25|PhD|57
+Deb|1|Male|50|PhD|78
+Lisa|1|Female|37|University|54
+Sterling|0|Female|34|Elementary|63
+Larry|0|Female|63|Elementary|72
+Frances|1|Male|19|Elementary|92
+Cecil|0|Male|49|Elementary|92
+Jose|1|Male|30|High School|89
+Bertram|0|Male|37|Elementary|66
+Johnathan|1|Female|42|PhD|68
+Thanh|1|Female|27|PhD|73
+Carrie|0|Female|76|Elementary|78
+Andrew|0|Female|75|Elementary|54
+Mary|0|Male|73|High School|76
+Mary|1|Female|39|PhD|82
+Bobby|0|Male|27|Higher Level|78
+Robert|0|Male|60|Elementary|67
+Kathryn|1|Female|24|PhD|59
+Benjamin|1|Male|42|PhD|95
+Buddy|1|Male|57|PhD|66
+David|1|Male|31|PhD|76
+Steven|0|Male|80|Elementary|80
+Alicia|0|Male|25|Elementary|77
+Geneva|0|Female|78|Elementary|75
+Dawn|1|Male|49|Higher Level|59
+John|1|Female|50|PhD|70
+Beulah|1|Male|38|University|102
+Gerald|1|Female|36|PhD|70
+David|1|Female|24|University|57
+Brandi|1|Male|32|PhD|74
+Weston|1|Male|25|PhD|73
+Bruce|1|Female|26|PhD|94
+Denise|0|Female|68|High School|75
+Patrick|0|Male|65|University|86
+Reginald|0|Male|65|Elementary|68
+Hazel|0|Female|78|No studies|75
+Allen|1|Female|19|High School|71
+Sharon|1|Male|52|Higher Level|111
+Alejandro|0|Female|57|Elementary|60
+Claudia|1|Male|55|High School|52
+Jennifer|1|Female|28|Higher Level|53
+John|1|Male|30|Higher Level|70
+Alvin|1|Female|40|University|60
+Bruce|1|Male|24|Elementary|57
+Lillian|0|Female|80|No studies|55
+James|1|Female|27|Higher Level|72
+Jose|1|Male|22|Higher Level|86
+Jason|1|Female|48|Elementary|58
+Ashley|1|Female|20|Elementary|71
+Timmy|1|Female|48|High School|72
+Mary|1|Female|39|Higher Level|65
+Ethel|1|Male|35|High School|95
+Lee|1|Male|51|Elementary|90
+Kelli|1|Male|33|Elementary|76
+Jon|0|Female|70|Elementary|65
+Joe|1|Male|35|High School|96
+Rodney|1|Female|29|PhD|85
+Antonio|1|Female|37|PhD|66
+Bill|1|Male|52|Elementary|73
+Monty|0|Male|55|High School|45
+Cynthia|1|Female|24|High School|48
+James|1|Male|18|High School|84
+Harry|0|Female|60|High School|67
+Patricia|1|Male|34|Higher Level|101
+Aurelia|1|Male|44|PhD|61
+Ernest|1|Female|69|PhD|73
+Dominic|1|Male|32|High School|103
+Dolly|1|Female|34|PhD|80
+Lisa|1|Male|49|University|94
+Pearle|1|Female|40|PhD|74
+Sylvia|1|Female|42|PhD|79
+Thelma|1|Female|34|Higher Level|87
+Ericka|1|Male|53|High School|62
+Susie|1|Male|22|Higher Level|127
+Edna|1|Male|34|High School|70
+Beulah|0|Female|70|Elementary|82
+Lorenzo|0|Female|45|Elementary|69
+Linda|1|Male|40|University|75
+Roger|0|Female|45|Elementary|69
+Karen|1|Male|18|Elementary|91
+Carin|1|Female|34|High School|82
+Amy|0|Male|64|Elementary|66
+Evelyn|0|Male|74|Elementary|86
+Paul|1|Male|34|Elementary|63
+Latasha|0|Male|47|Elementary|48
+Myrna|1|Male|28|Higher Level|81
+Marty|1|Female|55|Elementary|61
+Eugene|1|Female|32|High School|69
+Chris|1|Female|35|Higher Level|52
+Edna|0|Female|74|No studies|72
+Rachel|0|Male|76|Elementary|56
+Charlene|0|Female|40|No studies|63
+Brenda|1|Male|52|High School|124
+Roosevelt|0|Female|57|Elementary|65
+Nicole|1|Male|29|Higher Level|56
+Robert|1|Male|40|Elementary|97
+Johnny|1|Female|38|University|45
+James|1|Female|42|PhD|66
+Grace|1|Female|22|University|81
+Tiffany|1|Female|47|Elementary|60
+Mark|1|Male|28|Elementary|98
+Brandi|1|Male|21|University|101
+Cynthia|1|Female|30|Higher Level|88
+Mittie|1|Male|40|Elementary|101
+Brent|1|Female|36|High School|66
+John|0|Male|58|Elementary|86
+Charles|1|Male|36|PhD|74
+Gregory|1|Female|18|Elementary|81
+Cristina|0|Female|48|Elementary|75
+Eric|1|Female|34|High School|73
+Stephanie|1|Female|32|PhD|58
+Sheri|1|Male|27|High School|110
+Lee|0|Male|83|Elementary|92
+Denise|0|Female|35|Elementary|73
+Larry|0|Male|52|Elementary|62
+Laverne|1|Female|54|Elementary|66
+Mary|0|Female|25|High School|72
+Henry|0|Female|66|Elementary|66
+Jennifer|1|Male|22|Higher Level|58
+Tracy|1|Female|47|High School|62
+Kelly|0|Female|50|Elementary|85
+Amanda|1|Female|25|Elementary|61
+Lia|0|Female|40|Elementary|69
+Fern|0|Female|59|High School|71
+Colin|1|Male|26|PhD|66
+Linda|0|Male|95|Elementary|89
+James|1|Female|63|High School|73
+Elda|0|Female|65|Elementary|80
+Carrol|1|Female|33|PhD|66
+Mark|0|Female|48|Elementary|64
+Casey|0|Male|63|Elementary|68
+Sharita|1|Female|36|University|81
+Charles|1|Male|56|Higher Level|95
+William|0|Male|48|Elementary|95
+Thomas|0|Female|37|Elementary|69
+Marketta|1|Female|45|Higher Level|69
+Bruce|0|Male|59|Elementary|104
+Margaret|0|Male|73|No studies|76
+Margaret|0|Male|71|Elementary|62
+Thomas|0|Female|66|Elementary|85
+Victoria|0|Male|60|Elementary|95
+Robert|0|Female|60|Elementary|75
+Lindsy|1|Female|38|Higher Level|67
+Alex|1|Male|27|Elementary|102
+Mabel|1|Female|33|High School|62
+James|1|Male|22|University|48
+Donald|0|Female|70|Elementary|76
+Antonio|1|Male|21|University|50
+John|1|Male|63|Elementary|90
+Charlie|1|Male|41|PhD|91
+Mary|1|Male|27|Higher Level|68
+Joe|1|Female|87|High School|64
+Cruz|0|Male|75|Elementary|77
+Duane|1|Female|57|PhD|82
+Linda|1|Female|39|Higher Level|69
+David|1|Male|53|PhD|106
+Eleanor|1|Female|52|PhD|81
+Edward|1|Male|26|PhD|76
+Gladys|1|Female|38|Higher Level|67
+Diane|0|Female|65|Elementary|80
+Raphael|1|Male|41|PhD|65
+Barbra|1|Male|64|Elementary|97
+Cynthia|1|Female|33|Elementary|75
+Monica|1|Female|24|Higher Level|75
+Yolanda|1|Male|34|Elementary|83
+Earl|1|Female|38|High School|76
+Rose|1|Male|57|PhD|94
+Christopher|0|Male|80|No studies|75
+Christian|0|Female|59|No studies|67
+James|1|Male|27|Elementary|68
+Amanda|1|Male|39|Higher Level|65
+Bruce|1|Female|32|University|65
+Jean|1|Female|24|Higher Level|65
+Evelyn|0|Female|55|Elementary|68
+Mitchell|1|Male|20|University|99
+Charles|1|Male|50|PhD|67
+Christine|1|Female|36|PhD|82
+Austin|1|Male|30|Higher Level|94
+Daniel|0|Female|72|No studies|76
+Sean|1|Female|31|University|64
+Jason|0|Female|80|No studies|64
+Shannon|1|Male|27|Elementary|67
+Randy|0|Male|81|Elementary|54
+John|0|Female|53|Elementary|62
+Daniel|1|Male|45|PhD|107
+Raul|0|Female|44|Elementary|67
+Ashley|1|Female|54|Higher Level|73
+John|1|Male|30|High School|100
+Gary|0|Female|66|No studies|68
+Melinda|0|Female|64|PhD|67
+Peter|0|Male|53|Elementary|62
+Kimberly|0|Male|61|Elementary|49
+Mario|1|Female|23|Elementary|76
+Bryan|1|Female|31|University|63
+Sheryl|1|Male|22|Higher Level|86
+Daniel|1|Male|28|PhD|51
+James|1|Female|25|University|74
+Michael|0|Female|55|Elementary|89
+Lamont|0|Male|42|Elementary|99
+Dennis|0|Female|65|Elementary|77
+Sheila|1|Male|35|Elementary|80
+Becky|1|Male|29|Elementary|90
+Eric|1|Female|35|Elementary|82
+Jean|0|Female|53|Elementary|74
+Jaime|0|Male|72|No studies|104
+Virgil|0|Male|45|Higher Level|103
+Michael|1|Male|25|Higher Level|75
+Richard|1|Female|33|High School|60
+Michael|0|Male|50|Elementary|80
+Wayne|0|Male|62|Elementary|88
+Amy|1|Female|40|University|49
+Domenic|0|Female|71|Elementary|62
+Bernard|1|Female|38|Elementary|80
+Juanita|1|Male|23|High School|104
+Yvonne|1|Female|18|Elementary|65
+Monica|1|Male|39|Elementary|85
+Sandy|1|Female|52|Elementary|72
+Robert|0|Female|64|No studies|58
+Tina|0|Male|75|No studies|101
+Paul|1|Male|24|Higher Level|74
+Jerry|1|Female|43|Elementary|54
+Lavonne|0|Male|66|No studies|63
+Blanche|1|Female|33|Elementary|73
+Tony|1|Male|27|PhD|70
+Linda|1|Male|37|Elementary|73
+Tera|1|Female|44|Elementary|65
+Jonnie|0|Female|63|Elementary|74
+Ann|0|Male|70|Elementary|99
+Phyllis|0|Male|36|Elementary|75
+Anna|1|Female|19|Elementary|73
+Linda|1|Male|51|Elementary|70
+Raymond|1|Female|28|PhD|83
+Richard|1|Male|31|Elementary|95
+Mary|1|Female|27|Higher Level|70
+Patrick|0|Male|32|Elementary|72
+Ned|0|Male|47|Elementary|80
+David|0|Female|23|Higher Level|87
+Deborah|0|Male|62|No studies|85
+Christine|0|Female|73|No studies|72
+John|0|Female|68|No studies|85
+Donald|0|Female|50|Elementary|61
+Ola|0|Male|41|Elementary|89
+Beverly|0|Male|53|Elementary|63
+Carlos|0|Female|76|No studies|77
+Lewis|1|Male|18|Elementary|57
+Nancy|1|Male|32|High School|56
+Donna|0|Female|25|Elementary|74
+Birdie|1|Female|24|Higher Level|59
+Alejandra|0|Male|43|Elementary|47
+Lloyd|0|Female|40|Elementary|50
+Stanley|1|Female|28|Higher Level|71
+Glenda|0|Male|64|No studies|126
+Charley|0|Female|79|No studies|49
+James|0|Male|31|Elementary|49
+Darlene|0|Male|46|Elementary|78
+Danny|1|Female|35|Higher Level|69
+Leopoldo|0|Female|26|Elementary|88
+Santiago|1|Male|36|Elementary|59
+Sarah|0|Male|74|No studies|78
+Jamie|1|Male|63|University|75
+Elizabeth|1|Female|20|High School|70
+Clark|1|Male|26|High School|55
+Michelle|1|Female|45|University|77
+Dorothy|1|Female|28|PhD|49
+Jay|0|Male|41|Elementary|69
+Jeffrey|0|Female|74|No studies|49
+Charles|0|Female|64|Elementary|69
+George|1|Male|40|PhD|57
+Carol|0|Female|50|Higher Level|53
+Mildred|0|Male|71|Elementary|51
+Jason|1|Male|34|Higher Level|86
+Ray|1|Female|40|Higher Level|90
+Phyllis|0|Female|62|Elementary|61
+Louise|1|Male|51|Elementary|80
+Kimberly|1|Female|38|High School|90
+Todd|0|Female|78|No studies|60
+Thomas|0|Female|52|Elementary|78
+Billy|1|Female|25|Elementary|76
+Rebecca|1|Male|24|Elementary|121
+Steven|1|Male|36|Higher Level|97
+Jessica|1|Male|33|PhD|66
+Wanda|0|Female|67|No studies|69
+Charlotte|0|Male|77|No studies|60
+Gloria|0|Female|26|Higher Level|77
+Deborah|0|Female|55|Elementary|76
+Richard|0|Male|57|Elementary|85
+Stephen|1|Male|39|High School|101
+Helen|1|Female|25|University|79
+Russell|1|Female|36|High School|66
+Ryan|0|Female|75|Higher Level|82
+Selma|1|Female|45|University|66
+Robert|1|Male|20|Higher Level|69
+Denise|1|Male|34|High School|75
+Deloris|0|Male|69|Elementary|72
+Diane|1|Male|52|PhD|97
+Glenn|0|Female|28|Elementary|58
+Shirley|0|Male|43|Higher Level|65
+Lawrence|1|Male|18|High School|82
+George|0|Female|62|Elementary|76
+Candice|0|Female|48|Higher Level|66
+James|1|Male|39|Elementary|71
+Annette|0|Female|71|Elementary|61
+Marcus|0|Male|28|Elementary|84
+Kimberly|1|Male|60|High School|100
+Robert|0|Female|23|Elementary|64
+Tom|0|Male|72|Elementary|72
+Carolyn|1|Female|40|Elementary|79
+Evelyn|0|Female|79|No studies|69
+Jay|0|Female|51|No studies|72
+Frances|1|Male|26|Elementary|83
+Erin|1|Male|37|High School|89
+Aida|1|Female|29|Elementary|89
+Ashley|0|Male|39|High School|66
+Jean|0|Male|61|Elementary|110
+Arnold|0|Female|53|Elementary|76
+Bertha|1|Female|33|Higher Level|61
+Raymond|1|Female|37|High School|59
+Jeffrey|1|Male|58|University|99
+Paul|1|Male|48|Elementary|53
+Mary|1|Male|28|University|94
+Helen|0|Female|80|No studies|65
+Luis|0|Male|77|No studies|80
+Anna|1|Female|53|University|64
+Curt|0|Male|78|PhD|61
+Alex|1|Male|37|Elementary|52
+Theresa|0|Male|46|Elementary|51
+Angel|1|Female|20|High School|85
+Lela|1|Female|62|PhD|78
+Warren|1|Male|29|Higher Level|96
+Candace|1|Female|69|High School|77
+Mario|1|Female|33|University|65
+Preston|1|Male|34|High School|52
+Kristin|1|Male|38|Higher Level|40
+Brian|1|Male|45|Elementary|74
+Michael|1|Female|36|Higher Level|66
+Muriel|1|Male|23|Higher Level|78
+Nancy|0|Female|78|Elementary|81
+Melissa|0|Male|73|Elementary|85
+Rita|0|Female|59|Elementary|66
+David|1|Female|19|High School|72
+George|1|Male|39|Higher Level|83
+William|1|Female|51|Higher Level|66
+Edward|1|Female|37|University|72
+Anthony|0|Female|79|Elementary|97
+Marion|1|Male|18|Elementary|65
+William|0|Male|64|Elementary|47
+Raul|1|Female|25|University|69
+Theodore|1|Male|32|Elementary|49
+Chris|1|Male|48|High School|85
+Larry|1|Male|57|Elementary|61
+Pamala|1|Female|25|Higher Level|60
+Mary|0|Female|68|Elementary|63
+Linda|0|Male|73|Elementary|84
+John|1|Male|18|Elementary|80
+Francisco|1|Female|45|Higher Level|76
+Florence|0|Female|40|Elementary|60
+Archie|0|Female|65|Elementary|77
+Veronica|1|Female|44|Higher Level|65
+Marcel|1|Female|68|Elementary|72
+Francis|0|Female|72|Elementary|56
+Margie|1|Male|47|Higher Level|105
+John|0|Male|69|Elementary|87
+Gertha|0|Male|28|Elementary|101
+Ralph|1|Female|23|University|70
+Steven|1|Male|64|Elementary|85
+Ruth|0|Female|31|Elementary|76
+Brandon|1|Male|51|Elementary|74
+James|0|Female|41|Elementary|58
+Michele|0|Female|80|Elementary|68
+Mark|1|Male|54|High School|72
+James|0|Female|47|Elementary|108
+Johnny|0|Male|63|Elementary|82
+Edna|1|Male|23|Higher Level|76
+Gladys|0|Male|60|University|63
+Catherine|1|Male|25|Higher Level|87
+John|1|Female|39|Elementary|73
+Javier|0|Male|44|Elementary|67
+Kenneth|0|Male|45|Elementary|63
+Judith|0|Female|87|Elementary|74
+Beth|0|Female|51|Elementary|55
+Brandon|0|Female|73|Elementary|73
+Evelyn|1|Female|21|Elementary|58
+Albert|0|Female|51|Elementary|69
+Roni|0|Female|41|Elementary|66
+Gina|0|Female|68|Elementary|68
+Lucie|0|Male|74|Elementary|67
+Taylor|0|Male|35|Higher Level|79
+Richard|1|Female|31|PhD|73
+Edna|0|Male|81|No studies|63
+Glynda|0|Female|62|Elementary|76
+Reuben|1|Male|30|Higher Level|82
+Robert|1|Female|42|PhD|66
+Samuel|1|Male|32|Higher Level|34
+Samantha|1|Female|59|Elementary|62
+Julie|0|Female|54|Elementary|64
+Steve|1|Male|25|Higher Level|66
+Ines|0|Female|72|Elementary|72
+Mary|1|Female|25|Higher Level|76
+Grace|1|Male|39|Elementary|81
+Shawn|0|Male|76|Elementary|80
+Irmgard|0|Male|56|Higher Level|83
+Jenny|0|Female|49|Elementary|68
+Melissa|0|Female|81|Higher Level|69
+Mary|0|Female|65|High School|73
+Frank|0|Male|53|Elementary|88
+Tangela|0|Female|58|Elementary|67
+Michael|0|Male|52|Elementary|87
+Norene|0|Female|46|Elementary|60
+Beverly|1|Male|23|High School|92
+Anthony|0|Male|62|Elementary|80
+Pamela|0|Male|48|Elementary|102
+William|0|Female|75|University|74
+Phillip|0|Male|69|Elementary|68
+David|1|Female|28|High School|58
+Jody|1|Male|25|Elementary|60
+Brian|1|Male|42|Elementary|91
+Clifford|1|Female|19|High School|67
+Raquel|1|Male|58|High School|73
+Giovanna|0|Female|59|Elementary|85
+Margaret|0|Female|54|Elementary|71
+Misty|0|Male|21|Elementary|66
+Delores|0|Male|34|Higher Level|76
+Tommy|1|Female|52|Elementary|79
+Thomas|0|Female|82|Elementary|76
+Karen|0|Female|29|Higher Level|87
+Jesus|0|Female|62|Elementary|70
+Dorothy|0|Female|37|Elementary|93
+Karen|0|Male|48|Elementary|74
+Patricia|1|Male|45|PhD|92
+Beverly|0|Male|79|Elementary|68
+Cynthia|0|Female|70|Elementary|78
+Fredrick|0|Female|84|Elementary|67
+Judith|0|Female|54|Elementary|60
+Janice|0|Male|37|Elementary|85
+Antonio|0|Male|55|Elementary|72
+Rebecca|1|Female|31|University|88
+Denise|0|Male|72|Elementary|82
+Bethany|0|Male|68|Higher Level|76
+Frank|1|Male|46|Higher Level|51
+Alice|1|Male|29|High School|77
+Felicia|1|Male|45|PhD|66
+Linda|0|Female|77|Elementary|71
+Daniel|1|Female|43|High School|61
+Lee|1|Male|22|High School|73
+Derek|1|Male|42|University|78
+Karen|1|Female|56|High School|70
+Jeremy|1|Female|34|PhD|57
+Terry|0|Female|73|No studies|79
+Clifford|1|Male|43|Elementary|59
+Allyson|1|Female|25|Elementary|58
+Kenneth|1|Male|25|PhD|89
+Brent|1|Female|39|Higher Level|64
+Richard|0|Male|49|Elementary|81
+Marlon|0|Female|23|Elementary|58
+Gary|0|Female|57|Higher Level|65
+Clarence|1|Male|56|Elementary|103
+Tonya|1|Male|19|Elementary|71
+Flora|0|Male|43|Elementary|82
+Lindsey|0|Female|44|Elementary|50
+Emily|0|Male|59|No studies|77
+Virgie|0|Female|51|No studies|73
+Leon|0|Male|67|No studies|84
+Diane|1|Female|30|Elementary|58
+Dawn|0|Male|26|Elementary|56
+Edward|0|Female|69|No studies|78
+Danny|1|Male|22|Elementary|59
+Bessie|1|Male|53|Higher Level|77
+Jo|0|Female|72|No studies|59
+David|0|Male|31|Elementary|70
+James|0|Female|61|Elementary|68
+Horace|0|Female|48|Elementary|73
+Jeramy|1|Female|24|Elementary|55
+Jessica|1|Male|35|Elementary|86
+Mary|1|Male|35|PhD|70
+Kayla|1|Female|29|University|65
+Curtis|1|Female|40|High School|86
+Melvin|1|Male|27|Elementary|86
+Michelle|0|Male|59|Elementary|64
+Donna|0|Female|56|Elementary|82
+Mark|1|Female|55|PhD|75
+Jose|0|Female|80|University|74
+Alexander|1|Male|19|Elementary|63
+Larry|1|Male|66|High School|87
+Judy|1|Female|29|PhD|76
+Shanna|1|Female|41|Higher Level|74
+Daniel|1|Male|55|High School|86
+Albert|1|Male|30|Elementary|77
+Bernard|1|Male|20|High School|69
+Sheila|0|Female|48|Higher Level|77
+Bradley|0|Female|66|Elementary|76
+Jennifer|0|Female|75|Elementary|67
+April|0|Female|41|Elementary|53
+Thomas|1|Male|31|Higher Level|95
+Ofelia|1|Female|34|PhD|69
+Dolores|0|Male|43|High School|82
+Kirsten|0|Male|63|Elementary|74
+Rene|1|Male|66|Higher Level|77
+Michael|0|Male|64|Elementary|98
+Blanche|1|Male|52|High School|54
+Joseph|0|Female|40|High School|68
+Jeannine|1|Male|44|Elementary|75
+Bruce|0|Female|59|Elementary|64
+Terry|0|Female|69|Higher Level|76
+Tara|1|Female|29|Higher Level|64
+Thomas|1|Female|19|High School|70
+Robert|0|Male|83|Elementary|73
+Julie|1|Male|33|Higher Level|71
+Pearl|0|Female|64|University|64
+Florence|0|Male|67|Elementary|92
+Louisa|1|Male|31|Higher Level|75
+John|0|Female|50|Elementary|53
+Sarah|1|Female|24|PhD|80
+Patrick|0|Female|80|Elementary|68
+Dale|1|Male|37|PhD|78
+Edward|0|Male|54|Elementary|67
+Nicholas|1|Male|39|High School|89
+Georgia|1|Male|26|University|51
+Janet|1|Female|20|High School|81
+Steven|0|Female|60|Elementary|79
+Edith|0|Female|69|Elementary|75
+George|1|Female|34|University|58
+Lindsey|1|Male|49|Elementary|61
+Beth|0|Male|62|Elementary|78
+Ronda|1|Female|45|Elementary|54
+Tammi|1|Male|35|High School|82
+Lillian|0|Female|34|Higher Level|79
+Gaston|0|Male|75|High School|71
+Andrew|0|Female|68|Elementary|82
+Andrea|0|Male|47|Elementary|95
+Berta|1|Female|48|High School|73
+Brandon|0|Female|44|Elementary|63
+Ana|1|Male|25|Elementary|93
+Mary|0|Male|42|Higher Level|96
+Neville|1|Female|39|PhD|60
+Faye|0|Female|76|Elementary|78
+Laura|0|Male|79|Elementary|105
+Henry|1|Female|25|Elementary|58
+Juanita|1|Male|29|Elementary|84
+George|0|Female|58|No studies|79
+Belinda|1|Male|46|Higher Level|86
+Anjanette|0|Female|74|Elementary|83
+Alanna|0|Male|68|Elementary|91
+Sherry|0|Female|77|Elementary|66
+Mable|1|Female|25|Elementary|76
+Katie|1|Male|21|Elementary|83
+Mary|1|Male|38|PhD|80
+Maria|1|Female|52|University|83
+Diane|0|Female|44|Elementary|65
+Johnny|1|Male|27|University|88
+Krystin|1|Female|34|Elementary|54
+Albert|0|Male|49|Elementary|95
+Adam|1|Male|28|Elementary|89
+Otis|0|Male|63|Elementary|60
+Heather|1|Female|44|University|63
+Denise|0|Female|56|Elementary|70
+Antwan|1|Female|21|Elementary|63
+Helen|1|Female|70|University|78
+Leeann|1|Male|43|Higher Level|75
+Eileen|1|Male|45|Higher Level|48
+Karla|0|Female|50|Elementary|70
+Richard|1|Female|42|University|61
+Victor|1|Male|19|Elementary|82
+Ricky|1|Female|31|PhD|63
+Jesus|1|Male|33|Higher Level|92
+Kristi|1|Female|35|University|67
+Catherine|1|Male|62|High School|89
+John|0|Male|67|Elementary|84
+Charles|1|Female|19|Elementary|66
+Krystal|0|Female|57|Elementary|46
+Curtis|1|Male|26|Elementary|51
+Violet|1|Female|39|University|54
+Terrance|0|Female|72|Elementary|66
+Susan|1|Male|23|Elementary|93
+Johanna|1|Male|26|Elementary|96
+Jon|0|Male|39|Higher Level|92
+Debby|0|Female|49|Elementary|81
+Martha|1|Female|28|Higher Level|55
+Laurie|1|Male|23|Elementary|95
+Gayle|1|Female|25|Higher Level|69
+Lee|0|Male|61|Elementary|63
+James|0|Female|32|Elementary|72
+Mary|0|Male|33|High School|67
+Roy|1|Female|34|Elementary|87
+Charles|0|Male|68|Elementary|76
+Charles|1|Female|42|Higher Level|86
+Guillermina|1|Female|37|Higher Level|52
+Ernest|1|Male|43|Higher Level|75
+Opal|0|Female|93|Elementary|77
+Jessica|1|Male|40|Elementary|88
+Christine|1|Female|18|Elementary|59
+Norberto|1|Male|62|High School|88
+Delores|1|Female|43|University|62
+Lillie|0|Male|40|Elementary|84
+Patrick|0|Female|59|Elementary|77
+Stephen|0|Female|73|Elementary|54
+Stacey|1|Male|32|Higher Level|93
+James|0|Male|45|Elementary|74
+Susan|1|Female|45|Elementary|66
+Millard|1|Male|61|Higher Level|87
+Heather|0|Female|66|Elementary|56
+Samuel|1|Male|55|Elementary|71
+James|1|Female|50|Elementary|54
+Logan|1|Male|50|Elementary|70
+Vern|0|Female|39|No studies|72
+William|0|Male|27|Elementary|77
+Fabian|0|Female|51|Elementary|58
+Eric|0|Female|78|Higher Level|81
+Carmen|0|Female|60|Elementary|61
+Bonnie|0|Male|80|Elementary|90
+Mary|1|Female|34|Higher Level|73
+Dawn|0|Female|69|Elementary|60
+Johnnie|1|Male|27|Higher Level|122
+Sandra|0|Male|45|Elementary|51
+Carlos|0|Female|49|Higher Level|88
+Lonnie|1|Male|55|Higher Level|75
+Dorothy|1|Female|44|Higher Level|68
+Edwardo|1|Female|29|PhD|74
+Dianna|1|Male|34|PhD|96
+Margarita|0|Male|43|Elementary|58
+Jennifer|0|Male|24|Elementary|79
+Rosanne|1|Female|24|Higher Level|70
+Peggy|1|Female|58|University|68
+Rene|0|Female|65|Elementary|74
+Edward|1|Female|24|PhD|63
+David|1|Male|52|Higher Level|73
+Roberta|1|Female|36|Elementary|60
+Eric|1|Female|29|PhD|59
+Mary|1|Male|37|Higher Level|48
+William|0|Male|70|Elementary|81
+Walter|0|Male|86|Elementary|61
+Kimberly|1|Male|25|High School|76
+Linda|1|Female|48|Elementary|72
+Catherine|0|Male|41|Elementary|58
+Lincoln|0|Male|50|Elementary|65
+Virginia|1|Female|21|University|69
+Scott|0|Female|70|Elementary|55
+Gloria|1|Male|25|Higher Level|99
+Ralph|0|Male|77|Elementary|76
+Helen|0|Female|63|Elementary|61
+Marie|0|Male|53|Elementary|78
+Mary|1|Female|28|Elementary|50
+Latoya|0|Female|79|Elementary|65
+Robin|1|Female|24|PhD|62
+Lydia|1|Female|43|Higher Level|71
+Velma|1|Male|24|High School|84
+Charles|1|Male|41|PhD|68
+Jose|1|Female|32|PhD|52
+Juan|1|Male|30|University|88
+Leroy|1|Male|70|PhD|77
+Nellie|1|Male|32|PhD|79
+Ruth|0|Female|48|PhD|76
+Guadalupe|1|Female|40|Higher Level|68
+James|1|Female|51|University|65
+Edward|0|Female|65|Elementary|51
+Luciana|1|Male|49|Higher Level|124
+Dorothy|0|Male|58|No studies|93
+Clarence|1|Male|32|Elementary|74
+Joseph|1|Male|37|PhD|100
+Duane|1|Female|22|Higher Level|65
+Linda|1|Male|22|High School|83
+Susan|0|Female|60|Elementary|80
+Albert|0|Female|78|Higher Level|65
+Claudette|1|Female|32|University|63
+Shirley|1|Female|39|PhD|72
+Mary|1|Male|54|PhD|100
+Steven|1|Male|25|PhD|50
+Kenneth|1|Male|39|University|85
+Monica|1|Male|32|Elementary|73
+Linda|0|Male|79|Higher Level|94
+Ryan|1|Female|21|High School|63
+John|1|Female|60|PhD|80
+Paul|0|Female|71|No studies|76
+Judith|1|Male|24|PhD|73
+Malcolm|1|Female|50|University|40
+Eric|1|Male|64|PhD|94
+Dale|1|Female|31|Higher Level|60
+George|1|Male|44|University|92
+Alissa|0|Male|57|Elementary|65
+Robert|0|Female|54|Elementary|73
+Ada|0|Male|68|Elementary|77
+John|1|Female|30|University|97
+Margaret|1|Male|46|PhD|84
+Lori|1|Female|43|Elementary|98
+Nicholas|0|Female|55|Elementary|75
+Wayne|0|Female|72|Elementary|56
+Sol|0|Male|26|Elementary|80
+Leticia|0|Male|44|Elementary|87
+Robert|0|Female|75|Elementary|76
+Stacey|0|Female|48|Elementary|61
+Pamela|0|Male|71|Elementary|60
+David|0|Female|64|No studies|84
+Stacy|0|Male|52|Elementary|62
+Michael|0|Female|36|Elementary|72
+Drucilla|0|Male|40|Higher Level|108
+Frank|1|Male|30|High School|90
+Jeff|0|Male|49|No studies|122
+James|0|Female|46|No studies|72
+Barry|0|Male|22|Elementary|94
+Shannon|0|Female|30|Elementary|72
+Doug|1|Male|44|Elementary|47
+Jay|1|Female|18|Elementary|65
+Sharon|1|Female|35|Elementary|75
+Patricia|0|Male|48|Elementary|82
+Anita|0|Female|63|Elementary|68
+Brian|0|Female|79|Elementary|69
+Clarence|1|Female|40|PhD|72
+Zachary|1|Male|43|Higher Level|67
+Fred|1|Male|66|High School|72
+Ralph|1|Female|25|Higher Level|71
+Theodora|1|Male|21|University|70
+Lillie|1|Male|40|High School|95
+Noah|1|Male|44|PhD|104
+Alan|1|Female|41|Elementary|64
+Gerald|0|Male|85|Elementary|105
+Justin|0|Female|73|No studies|67
+Susan|0|Female|52|Elementary|70
+Patricia|0|Male|50|Elementary|89
+Walter|0|Female|58|Elementary|92
+Lorna|0|Male|58|Higher Level|67
+Carly|1|Female|41|Higher Level|69
+Lucia|0|Female|50|Elementary|48
+Nellie|1|Male|48|Elementary|86
+Grace|1|Female|26|Elementary|76
+Dovie|0|Male|74|No studies|86
+Evelyn|0|Female|78|No studies|70
+Sandra|0|Male|38|Higher Level|89
+Leona|0|Male|33|Higher Level|80
+Gabriel|0|Female|40|Elementary|52
+Carl|0|Male|45|Elementary|51
+Randall|0|Male|40|PhD|78
+Donna|0|Female|43|Elementary|86
+Claudia|1|Male|19|Elementary|66
+Jared|0|Female|64|Elementary|73
+Lillie|0|Female|40|Higher Level|51
+Robert|0|Female|69|Elementary|73
+Renee|1|Female|31|Higher Level|67
+Micheal|0|Male|51|Elementary|92
+Queen|1|Female|24|Higher Level|60
+Patricia|0|Male|31|Elementary|66
+Daniel|1|Male|30|Higher Level|96
+Bridget|0|Male|62|Elementary|70
+Chad|1|Female|33|University|62
+Angelica|0|Female|40|Elementary|70
+Heather|1|Male|42|Higher Level|87
+Ronald|0|Female|60|Elementary|63
+Leroy|0|Female|65|Elementary|68
+Betty|0|Female|62|No studies|77
+Wayne|1|Female|26|Elementary|70
+Jerry|0|Female|79|No studies|72
+Christopher|1|Male|27|Elementary|52
+Lynn|1|Male|38|Elementary|56
+Cindy|0|Male|24|No studies|94
+Crystal|0|Male|46|Elementary|88
+Marina|0|Male|65|No studies|76
+Joseph|0|Female|24|Elementary|68
+Camille|1|Female|35|High School|67
+Edward|0|Female|74|High School|85
+Christina|1|Male|35|Higher Level|76
+Tina|1|Male|20|Higher Level|91
+Ruby|1|Male|51|Elementary|74
+Andrea|0|Male|64|Elementary|94
+Jose|1|Male|66|Elementary|101
+Glen|0|Female|60|Elementary|64
+Phillip|0|Female|41|High School|60
+Luisa|0|Male|75|Elementary|79
+Charles|1|Female|45|High School|54
+Marvin|1|Male|44|Higher Level|95
+Barbara|1|Male|61|Elementary|101
+Richard|0|Female|58|Elementary|72
+Christopher|0|Female|78|No studies|73
+Lola|1|Female|27|University|66
+Henry|1|Male|25|PhD|72
+Sarah|1|Male|43|High School|70
+Betty|1|Male|20|Elementary|80
+Nora|1|Male|29|PhD|77
+Elizabeth|1|Female|43|Higher Level|74
+Alaina|0|Female|58|Elementary|87
+Gerald|0|Female|84|Higher Level|79
+Christopher|1|Male|51|Elementary|92
+Charlotte|1|Female|22|PhD|72
+Linda|1|Female|37|Elementary|70
+Travis|1|Female|34|Elementary|81
+Susan|1|Male|18|Elementary|107
+Ryan|0|Male|65|Elementary|61
+Rosemarie|0|Female|65|Elementary|70
+Gail|0|Male|32|Elementary|86
+Rodney|1|Male|41|Higher Level|77
+Paul|1|Male|51|Elementary|93
+Violette|0|Female|51|Elementary|60
+Shirley|0|Female|65|No studies|74
+William|0|Male|43|Elementary|76
+Russell|0|Male|64|Elementary|81
+Jennifer|1|Male|37|Higher Level|69
+Jared|1|Female|34|Elementary|66
+Joseph|0|Female|53|Higher Level|82
+Susan|0|Male|69|Elementary|108
+Norman|1|Female|19|Elementary|81
+Hoa|1|Male|21|Higher Level|59
+Jessica|0|Female|60|Elementary|49
+Irene|1|Female|39|PhD|55
+Karina|1|Male|34|Elementary|54
+Jose|0|Male|48|Elementary|67
+Jennifer|0|Female|70|Elementary|54
+Cheryl|1|Female|25|University|62
+Cheri|1|Male|21|High School|67
+Charles|1|Male|64|Elementary|48
+Walter|0|Female|30|Elementary|76
+William|0|Female|38|Elementary|73
+Michael|1|Female|19|Elementary|79
+Sarah|0|Male|76|Elementary|63
+Charles|1|Female|52|Elementary|73
+Jorge|0|Female|81|No studies|66
+William|0|Male|37|Higher Level|92
+Johnny|0|Male|49|Higher Level|81
+John|1|Female|27|University|82
+Cruz|0|Male|33|Higher Level|61
+Harry|1|Female|39|PhD|91
+Antonio|0|Male|74|No studies|82
+Jennifer|1|Female|53|Elementary|62
+Joshua|0|Male|61|High School|99
+Joe|1|Male|35|High School|89
+Laura|0|Female|83|No studies|80
+Christopher|1|Male|32|Elementary|80
+Irene|0|Female|78|Elementary|63
+Robert|1|Female|31|Higher Level|59
+Earl|1|Male|25|Elementary|70
+Michael|0|Male|54|Elementary|66
+Dawn|1|Male|43|Higher Level|54
+Bobbi|1|Male|59|Elementary|65
+Logan|0|Male|69|Elementary|67
+Maxine|1|Male|19|High School|93
+Jarred|1|Female|20|High School|73
+Daniel|1|Female|60|Elementary|71
+Doug|0|Female|47|Elementary|63
+Jesse|0|Male|31|Elementary|70
+Jeffrey|1|Female|33|PhD|59
+Jamie|1|Female|42|University|60
+Doris|0|Male|71|Elementary|92
+David|1|Male|60|PhD|57
+Eugene|0|Female|83|Elementary|73
+Martha|1|Female|49|Higher Level|60
+James|1|Male|43|Elementary|83
+Carl|1|Female|28|Elementary|71
+Danielle|0|Male|43|High School|82
+Willie|0|Female|45|Elementary|89
+Russell|0|Male|79|Elementary|93
+Emanuel|1|Male|20|High School|96
+Ida|1|Female|20|University|75
+Justin|1|Female|38|PhD|74
+Elizabeth|0|Female|60|Elementary|63
+Nicole|1|Female|27|Higher Level|72
+Ada|1|Male|26|PhD|86
+Thomas|0|Female|72|Elementary|74
+Sandra|0|Female|42|Elementary|71
+Estella|1|Male|36|Higher Level|87
+Coleen|0|Male|64|Elementary|55
+Angel|1|Male|46|Elementary|84
+Sharon|1|Male|26|PhD|70
+Anne|1|Female|34|Higher Level|53
+Anita|1|Female|37|Higher Level|73
+Jenette|0|Female|54|Elementary|74
+Ruth|1|Male|29|Elementary|95
+Rashida|1|Male|21|Higher Level|58
+Marian|0|Male|36|Elementary|81
+Jesse|1|Female|23|Higher Level|75
+Lawrence|0|Female|70|No studies|54
+Tammie|1|Male|45|Elementary|84
+Kate|0|Male|70|Elementary|53
+Michael|0|Female|61|Elementary|79
+Johnny|0|Female|40|Elementary|63
+Alma|1|Female|24|Elementary|74
+Dennis|1|Male|29|Elementary|67
+David|0|Male|59|Elementary|67
+Kenneth|1|Female|38|Higher Level|96
+Diana|1|Male|45|Higher Level|78
+Mary|0|Male|40|Elementary|81
+Donald|0|Female|82|No studies|60
+Erica|1|Male|51|Higher Level|86
+Loren|0|Male|77|Elementary|72
+Patricia|1|Female|28|Higher Level|57
+Connie|1|Female|54|Elementary|63
+Eric|0|Female|69|Elementary|55
+Cindy|1|Male|39|High School|100
+Melvin|1|Female|23|Elementary|54
+Sharon|1|Female|28|Elementary|60
+Jose|1|Male|30|Elementary|96
+Michael|1|Male|37|Elementary|66
+Lisa|0|Female|42|Higher Level|70
+Raul|1|Male|46|PhD|91
+Daniel|0|Male|89|No studies|88
+Gloria|1|Male|26|Elementary|82
+Kimberly|1|Male|22|High School|67
+Diane|1|Female|31|High School|70
+Richard|0|Female|71|No studies|59
+Catherine|1|Male|59|PhD|55
+Evelyn|0|Female|78|Elementary|71
+Jean|1|Male|41|Elementary|82
+Clint|0|Female|64|Elementary|65
+Lisa|0|Female|39|Elementary|57
+Bruce|0|Male|53|Elementary|87
+Sherry|1|Male|33|Elementary|96
+Alfred|0|Male|63|Elementary|78
+Rachele|1|Male|33|High School|99
+Maria|1|Female|43|Higher Level|56
+Paul|1|Male|38|Elementary|87
+Jennifer|1|Female|52|Elementary|79
+Kathleen|0|Female|38|Elementary|72
+Silvia|1|Male|24|Elementary|89
+Nina|1|Male|41|Elementary|69
+Willie|0|Female|79|Elementary|79
+Micheal|1|Female|46|Higher Level|66
+Sabine|1|Female|59|Higher Level|90
+Sandra|1|Female|40|Elementary|49
+Richard|0|Female|59|Elementary|72
+Richard|1|Female|25|University|90
+Robert|0|Female|77|No studies|66
+Helena|0|Male|62|Elementary|69
+Vicki|1|Male|28|Higher Level|69
+Judith|1|Male|33|Higher Level|61
+Joseph|1|Male|36|University|83
+Cindy|1|Male|38|Elementary|75
+Theodore|1|Male|34|Elementary|85
+Debbie|1|Female|49|Elementary|57
+James|0|Female|60|High School|60
+Kenneth|1|Male|80|PhD|74
+Joseph|1|Female|66|University|73
+Carol|1|Male|45|Elementary|72
+Kay|1|Female|39|PhD|64
+George|1|Male|42|Higher Level|104
+Gladys|0|Male|59|Elementary|85
+Terrence|1|Female|67|Elementary|63
+Marianne|1|Female|31|University|72
+Steve|1|Female|54|Elementary|66
+Jim|0|Male|62|PhD|89
+Tammy|1|Female|39|University|74
+Mattie|1|Male|28|University|64
+Joseph|1|Male|70|PhD|73
+Raymond|0|Female|58|Elementary|60
+Pamela|1|Female|45|Elementary|73
+Ricardo|0|Female|65|Elementary|69
+Marina|1|Male|37|Elementary|63
+Carlton|0|Male|46|Elementary|92
+Celia|1|Female|32|Elementary|95
+Ann|0|Male|70|No studies|85
+Maria|1|Male|33|Elementary|73
+Kathryn|1|Female|21|Higher Level|55
+Eva|1|Male|70|PhD|68
+Tom|1|Male|47|Higher Level|76
+Anna|1|Female|30|University|68
+Jose|1|Male|56|PhD|93
+Stuart|0|Female|68|Elementary|66
+Briana|1|Female|56|Elementary|63
+Eric|1|Male|28|High School|90
+Florence|1|Female|22|University|84
+Wendy|1|Female|49|Elementary|63
+Jeana|0|Male|72|Elementary|64
+Thomas|1|Male|24|Elementary|99
+Donna|1|Male|59|No studies|57
+Kenneth|1|Male|40|Higher Level|77
+Lola|0|Female|40|Elementary|53
+Dorothy|0|Female|65|Elementary|82
+Antonia|1|Female|27|Higher Level|63
+Emmett|0|Female|49|Elementary|60
+Junita|0|Male|72|PhD|76
+Candace|1|Female|32|High School|62
+Diane|0|Female|65|Elementary|64
+Robert|1|Male|31|University|85
+Anthony|1|Male|20|Higher Level|80
+Mike|1|Female|18|High School|78
+Corey|1|Male|36|Higher Level|96
+Paul|0|Female|60|Elementary|83
+Samantha|1|Female|28|High School|81
+Carol|0|Female|39|Higher Level|71
+Stanley|1|Female|45|PhD|73
+Kimberly|1|Male|47|Higher Level|53
+Barbara|1|Male|41|PhD|91
+Carolyn|0|Male|75|Elementary|79
+Glynda|1|Female|48|University|56
+Christy|1|Female|44|Elementary|89
+Shawn|1|Female|32|PhD|78
+Gloria|1|Male|63|Elementary|82
+Omar|0|Male|58|Elementary|99
+Barbra|0|Female|79|Elementary|63
+Richard|0|Male|73|Elementary|82
+Tricia|1|Male|28|Elementary|71
+Christopher|1|Male|18|Elementary|92
+Helen|0|Male|37|Elementary|67
+Thomas|1|Female|53|Elementary|57
+Zachary|0|Female|43|Elementary|71
+Theodore|1|Male|50|Elementary|64
+James|0|Male|74|Elementary|73
+Mark|0|Female|80|No studies|58
+Blanche|0|Female|68|No studies|56
+John|0|Female|77|Elementary|54
+Scott|1|Male|27|University|88
+Charlie|0|Female|32|Higher Level|67
+Cathy|1|Female|48|PhD|57
+Rosa|1|Male|24|Elementary|70
+Nelson|0|Female|64|Elementary|55
+Monnie|1|Female|23|Higher Level|68
+Brittany|1|Male|18|High School|94
+Thomas|1|Male|54|Higher Level|46
+Michelle|0|Female|64|Elementary|56
+Jennifer|0|Female|65|Elementary|76
+Kendra|0|Female|39|Higher Level|66
+Ernest|1|Male|35|Elementary|81
+Mary|0|Male|63|Elementary|69
+Jacquelyn|1|Female|45|Elementary|66
+William|1|Female|33|Elementary|71
+Cherri|1|Female|23|Elementary|46
+Dorothy|0|Male|69|Elementary|85
+Jennifer|0|Female|61|Elementary|71
+Howard|0|Female|67|Elementary|96
+Sergio|1|Male|28|Higher Level|77
+Francis|1|Male|36|Elementary|48
+Blaine|0|Female|49|Higher Level|78
+Robert|1|Male|55|Elementary|48
+Daisey|0|Male|40|Elementary|76
+Evelyn|1|Female|36|Elementary|53
+Jeremiah|1|Male|25|Higher Level|86
+Ronald|0|Male|65|Elementary|53
+Joan|1|Female|34|Higher Level|67
+David|0|Female|87|Elementary|50
+Cassandra|0|Male|50|Elementary|83
+Sam|0|Male|30|Elementary|96
+Jean|0|Male|84|Elementary|83
+Lawrence|1|Male|36|PhD|96
+Dominick|1|Male|48|PhD|62
+Malia|1|Male|28|PhD|57
+Norman|0|Male|64|Higher Level|98
+Ray|0|Female|43|Higher Level|79
+Laura|0|Female|45|Elementary|67
+Rebecca|0|Female|64|Elementary|64
+Christine|1|Male|64|PhD|83
+Raymond|1|Male|80|PhD|84
+James|0|Female|80|Elementary|70
+Michael|1|Female|39|PhD|62
+Melvin|0|Female|67|Elementary|74
+Edward|0|Female|69|Elementary|65
+Ruth|1|Male|41|Higher Level|88
+Elsie|1|Female|20|PhD|68
+Jennifer|1|Female|45|Higher Level|69
+Dale|0|Male|64|Higher Level|64
+James|0|Male|71|Elementary|78
+David|1|Female|41|Higher Level|87
+Joan|1|Male|27|Higher Level|91
+Steven|0|Female|59|Elementary|75
+Song|0|Male|58|Higher Level|72
+Cheryl|1|Female|29|Elementary|85
+Vera|0|Female|69|Elementary|48
+Jason|0|Female|57|Elementary|66
+Cynthia|0|Male|66|Elementary|74
+James|0|Male|50|Elementary|45
+Norman|0|Female|49|High School|82
+Lloyd|1|Male|19|High School|70
+Richard|0|Female|82|Elementary|56
+Nicholas|1|Male|33|Elementary|64
+Son|1|Female|43|PhD|43
+Grady|1|Male|41|PhD|66
+Sharon|0|Male|48|Elementary|76
+Cynthia|1|Female|25|PhD|72
+Mary|1|Female|28|PhD|67
+Joe|1|Male|40|Higher Level|88
+Roberta|1|Male|47|Elementary|79
+Clarence|0|Female|41|Elementary|83
+Gayle|0|Female|55|Elementary|71
+Michelle|0|Female|70|Elementary|72
+Katrina|1|Female|30|PhD|68
+Amanda|1|Male|33|High School|75
+Michael|1|Female|21|Higher Level|54
+Barbara|1|Male|65|Higher Level|66
+Margaret|0|Female|56|Elementary|69
+Nicholas|1|Male|39|Elementary|82
+George|0|Male|44|Elementary|109
+Nancy|1|Female|44|Higher Level|62
+Windy|0|Male|82|No studies|74
+Justin|0|Female|78|No studies|81
+Marie|0|Female|56|Higher Level|54
+Neil|0|Male|46|High School|115
+Dorothy|0|Male|61|No studies|74
+Jeff|1|Female|21|Higher Level|79
+Ernest|1|Male|23|University|59
+Fred|1|Female|25|University|82
+James|0|Female|81|No studies|63
+John|0|Female|53|Elementary|51
+Paul|0|Female|68|Elementary|75
+Emily|0|Male|35|Elementary|87
+Marcus|1|Male|29|Elementary|83
+Dorothea|0|Female|43|Elementary|69
+Bridget|0|Male|53|Elementary|57
+Juan|0|Male|82|Elementary|106
+Leonard|0|Female|38|Elementary|59
+Eva|1|Male|29|High School|84
+William|1|Female|48|High School|63
+Eddie|1|Male|44|Elementary|78
+Jeremy|1|Female|33|High School|66
+Alyssa|1|Male|21|Elementary|101
+Elsie|1|Male|49|University|97
+Michael|0|Female|56|Higher Level|59
+Jerry|1|Male|39|Higher Level|108
+Earnest|0|Female|46|Higher Level|72
+Gary|1|Female|28|University|65
+Julia|1|Male|29|Higher Level|101
+Frank|1|Female|35|Elementary|52
+Scott|0|Female|60|Elementary|83
+Ginger|0|Female|70|Elementary|63
+Wanda|1|Female|21|Higher Level|70
+Carrie|0|Male|64|Elementary|99
+Linda|0|Male|72|Elementary|45
+Minnie|0|Female|62|Elementary|72
+Alice|0|Female|66|Elementary|75
+Luana|0|Male|60|Elementary|60
+Carmen|1|Male|31|High School|79
+Eric|0|Male|53|Elementary|72
+John|0|Male|82|Elementary|67
+Maureen|0|Female|34|Elementary|57
+Robert|1|Female|44|PhD|60
+Frank|0|Male|74|Elementary|83
+Daniel|0|Female|77|Elementary|52
+Elvira|1|Male|51|PhD|112
+Tina|1|Male|38|High School|74
+Mark|0|Female|80|Elementary|62
+Millicent|1|Female|33|Higher Level|70
+Anne|1|Male|21|Higher Level|90
+Ernestina|0|Female|54|Elementary|76
+Jaime|1|Male|27|Elementary|90
+Elsie|0|Female|64|No studies|57
+Michael|0|Male|92|No studies|74
+Frances|1|Male|43|Elementary|94
+Harry|1|Female|18|High School|70
+Adam|0|Female|54|Elementary|60
+Christine|1|Male|31|High School|89
+Pepe|0|Male|52|Elementary|88
