@@ -10,4 +10,4 @@ Within every folder, you will find 2 types of Jupyter Notebooks:
 - C: Blank notebook to be completed as a homework.
 - B & D files are the solutions to the previous notebooks. If you want them, you need to buy the digital course.
 
-If you want to showcase your work on this course as a portfolio, don't forget to fork this repository to create a copy on your profile.
+If you want to showcase your work on this course as a portfolio, don't forget to [fork this repository](https://github.com/jsulopzs/course-resolving-python-data-visualization/fork) to create a copy on your profile.
